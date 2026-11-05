@@ -10,7 +10,8 @@ Instagram Reel. No network calls, no runtime dependencies, no music bed.
 | Duration | 18.00 s / 540 frames |
 | Output | `reel.mp4` (H.264 + AAC, 13 MB) |
 | Timeline | `index.html` + six subcompositions in `compositions/` |
-| Docs | `SPEC.md` (build spec), `STORYLINES.md` (story decision), `REVIEW.md` (QA record) |
+| Docs | `SPEC.md` (build spec), `STORYLINES.md` (story decision), `REVIEW.md` (QA record), `STYLE.md` (locked house style + delivery contract for all future Reels) |
+| Publish kit | `delivery/` + `cafe-reel-delivery.zip` — cover, caption, hashtags and the MP4 in one download |
 
 ## Open / edit
 
@@ -49,6 +50,18 @@ npx hyperframes render . -o reel.mp4 -f 30 -q looks --workers 2
 Regenerate the sound beds with `/home/user/.pyvenv/bin/python tools/make_audio.py`.
 `tools/trim_voices.py` documents the one-time room-tone/pause trim applied to the
 generated dialogue MP3s.
+
+## Publish kit
+
+Every Reel ships a cover, caption, hashtags and a downloadable master. Edit
+`delivery.json`, then run:
+
+```bash
+python tools/make_delivery.py        # needs Pillow + NumPy
+```
+
+It writes `delivery/{cover.jpg,reel.mp4,caption.txt,hashtags.txt,README.txt}` and
+`cafe-reel-delivery.zip`. The reusable rules are in `STYLE.md`.
 
 ## Sound design
 
