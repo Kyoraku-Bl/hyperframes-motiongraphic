@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
-"""Read-only direct-download server for the three-Reel campaign."""
+"""Read-only preview + direct-download server for the three-Reel campaign.
+
+Default routes keep `Content-Disposition: attachment` so every link stays a real
+download. Add `?inline=1` to any media path to drop that header — this is what the
+in-page <video>/<img> previews use. Byte ranges are supported for seeking.
+"""
 from __future__ import annotations
 
 import argparse
 import mimetypes
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from urllib.parse import parse_qs, urlsplit
 
 ROOT = Path(__file__).resolve().parent
 ITEMS = [
@@ -14,37 +20,56 @@ ITEMS = [
     ("reel-03-rented-audience", "You Rent Your Audience", "Ownership & automation — your business lives on rented land", "Petal & Stem"),
 ]
 
+CARDS = "".join(
+    f'''<section>
+  <div class="play">
+    <video controls playsinline preload="none" width="230"
+      poster="/{slug}-cover.jpg?inline=1" src="/{slug}.mp4?inline=1"></video>
+    <div class="meta">
+      <h2>{i+1}. {title}</h2>
+      <div class="biz">{biz}</div>
+      <p class="angle">{angle}</p>
+      <a class="btn main" href="/{slug}.mp4" download>Download MP4</a>
+      <a class="btn" href="/{slug}-cover.jpg" download>Cover</a>
+      <a class="btn" href="/{slug}-caption.txt" download>Caption</a>
+      <a class="btn" href="/{slug}-hashtags.txt" download>Hashtags</a>
+      <a class="btn" href="/{slug}-delivery.zip" download>Full kit ZIP</a>
+    </div>
+  </div>
+</section>'''
+    for i, (slug, title, angle, biz) in enumerate(ITEMS)
+)
+
 INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1"><title>3 Reels — download</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>3 Reels — preview &amp; download</title>
 <style>
+*{box-sizing:border-box}
 body{margin:0;background:#0c1310;color:#F3EEE2;font:16px/1.5 Inter,system-ui,sans-serif}
-main{max-width:780px;margin:0 auto;padding:44px 24px 60px}
-h1{font-size:32px;line-height:1.15;margin:0 0 8px}
-p.lead{color:#b9c2b7;margin:0 0 32px}
-section{border:1px solid #2c4b3c;border-radius:16px;padding:20px 22px;margin:0 0 18px;background:#111e17}
-h2{font-size:22px;margin:0 0 4px} .biz{color:#e0c68a;font-size:15px}
-.angle{color:#a9bcae;font-size:15px;margin:0 0 14px}
-a.btn{display:inline-block;margin:5px 8px 5px 0;padding:11px 17px;border-radius:10px;
- background:#1F4736;color:#F3EEE2;text-decoration:none;font-weight:700;font-size:15px;border:1px solid #3b6a52}
+main{max-width:860px;margin:0 auto;padding:38px 22px 60px}
+h1{font-size:30px;line-height:1.15;margin:0 0 8px}
+p.lead{color:#b9c2b7;margin:0 0 26px}
+section{border:1px solid #2c4b3c;border-radius:16px;padding:18px;margin:0 0 16px;background:#111e17}
+.play{display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap}
+video{width:230px;height:409px;object-fit:cover;background:#08110d;border-radius:10px;border:1px solid #2c4b3c;flex:0 0 auto}
+.meta{flex:1 1 300px;min-width:260px}
+h2{font-size:21px;margin:2px 0 4px} .biz{color:#e0c68a;font-size:15px}
+.angle{color:#a9bcae;font-size:15px;margin:8px 0 14px}
+a.btn{display:inline-block;margin:5px 7px 5px 0;padding:10px 15px;border-radius:10px;
+ background:#1F4736;color:#F3EEE2;text-decoration:none;font-weight:700;font-size:14px;border:1px solid #3b6a52}
 a.main{background:#F3EEE2;color:#121715;border-color:#F3EEE2}
-a.bundle{display:block;text-align:center;margin:26px 0 8px;padding:19px;border-radius:14px;
- background:#F3EEE2;color:#121715;text-decoration:none;font-weight:900;font-size:19px}
-small{display:block;margin-top:26px;color:#8d9a8f}
+.zips{margin-top:24px;padding:18px;border:1px dashed #3b6a52;border-radius:14px}
+.zips h2{margin:0 0 10px;font-size:18px}
+small{display:block;margin-top:24px;color:#8d9a8f}
 </style></head><body><main>
 <h1>THREE REELS · THREE MARKETING ANGLES</h1>
-<p class="lead">1080 × 1920 · 30 fps · 18 s · H.264 + AAC · no music baked in</p>
+<p class="lead">1080 × 1920 · 30 fps · 18 s · H.264 + AAC · no music baked in. Press play to preview, or download.</p>
+""" + CARDS + """
+<div class="zips"><h2>Everything for one Reel, in one ZIP</h2>
 """ + "".join(
-    f'<section><h2>{i+1}. {title}</h2><div class="biz">{biz}</div>'
-    f'<p class="angle">{angle}</p>'
-    f'<a class="btn main" href="/{slug}.mp4" download>Download MP4</a>'
-    f'<a class="btn" href="/{slug}-cover.jpg" download>Cover</a>'
-    f'<a class="btn" href="/{slug}-caption.txt" download>Caption</a>'
-    f'<a class="btn" href="/{slug}-hashtags.txt" download>Hashtags</a></section>'
-    for i, (slug, title, angle, biz) in enumerate(ITEMS)
+    f'<a class="btn" href="/{slug}-delivery.zip" download>{i+1}. {title}</a>'
+    for i, (slug, title, _, _) in enumerate(ITEMS)
 ) + """
-<h2 style="font-size:20px;margin:28px 0 10px">Everything for one Reel, in one ZIP</h2>
-<a class="btn" href="/reel-01-midnight-search-delivery.zip" download>1. The Midnight Search — full kit (ZIP)</a><a class="btn" href="/reel-02-four-seconds-delivery.zip" download>2. Four Seconds — full kit (ZIP)</a><a class="btn" href="/reel-03-rented-audience-delivery.zip" download>3. You Rent Your Audience — full kit (ZIP)</a>
-<a class="btn" href="/INDEX.md">Full captions &amp; hashtags (text)</a>
+<a class="btn" href="/INDEX.md">Full captions &amp; hashtags (text)</a></div>
 <small>Add a low-volume trending track in the Instagram editor. Set each cover JPG as its Reel cover.</small>
 </main></body></html>"""
 
@@ -56,16 +81,32 @@ class Handler(BaseHTTPRequestHandler):
         print("[campaign] " + fmt % args, flush=True)
 
     def _serve(self, head: bool):
-        path = self.path.split("?", 1)[0]
+        parts = urlsplit(self.path)
+        path, query = parts.path, parse_qs(parts.query)
+        inline = query.get("inline", ["0"])[0] == "1"
+
+        if path == "/health":
+            body = b'{"status":"ok","service":"3-reel-campaign","port":3005}'
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.send_header("Content-Length", str(len(body)))
+            self.send_header("Access-Control-Allow-Origin", "*")
+            self.end_headers()
+            if not head:
+                self.wfile.write(body)
+            return
+
         if path in ("/", "/index.html"):
             body = INDEX.encode()
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
             self.send_header("Content-Length", str(len(body)))
+            self.send_header("Access-Control-Allow-Origin", "*")
             self.end_headers()
             if not head:
                 self.wfile.write(body)
             return
+
         rel = path.lstrip("/")
         p = ROOT / rel
         if "/" in rel or ".." in rel or not p.is_file():
@@ -95,9 +136,10 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(length))
         self.send_header("Accept-Ranges", "bytes")
-        if p.suffix in (".mp4", ".zip", ".jpg", ".txt"):
-            self.send_header("Content-Disposition", f'attachment; filename="{p.name}"')
         self.send_header("Access-Control-Allow-Origin", "*")
+        # Inline mode is only for the in-page preview; plain links stay downloads.
+        if not inline and p.suffix in (".mp4", ".zip", ".jpg", ".txt"):
+            self.send_header("Content-Disposition", f'attachment; filename="{p.name}"')
         if status == 206:
             self.send_header("Content-Range", f"bytes {start}-{end}/{size}")
         self.end_headers()
