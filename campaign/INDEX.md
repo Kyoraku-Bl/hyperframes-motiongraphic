@@ -1,11 +1,17 @@
-# Three Reels, three marketing angles
+# Three Reels — three marketing angles
 
-= House style locked in `cafe-reel/STYLE.md`: 1080x1920 / 30 fps / 18 s, anime feature look, hook from frame 1, word-by-word captions, no music, clean loop.
+**Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
-## reel-01-midnight-search
+House style locked in `cafe-reel/STYLE.md`: 1080×1920 / 30 fps / 18 s, anime feature look, hook from frame 1, word-by-word captions, no music, clean loop.
+
+> The sandbox preview proxy requires a traffic-access token, so its own URLs return 403.
+> All links below go to the public GitHub CDN.
+
+## 01 · The Midnight Search
 - Business: Sharp & Sons Barbershop
 - Angle: Loss aversion — the sale you never knew you lost
-- Hook: HE NEEDED A CUT / AT 11PM / BOOKED NEXT DOOR.
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-01-midnight-search/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-01-midnight-search/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-01-midnight-search/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-01-midnight-search/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-01-midnight-search/reel-01-midnight-search-delivery.zip)
 
 **Caption:**
 
@@ -20,16 +26,17 @@ Want a free mockup for your business?
 
 Save this ♻️  ·  Follow @sitely_studioo for more
 
+#barbershop #barber #smallbusiness #localbusiness #websitedesign #webdesigner #onlinebooking #bookingsystem #barberlife #smallbusinessowner #brooklyn #digitalmarketing #businessgrowth #getfound #seo #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
 **Hashtags:**
 
 #barbershop #barber #smallbusiness #localbusiness #websitedesign #webdesigner #onlinebooking #bookingsystem #barberlife #smallbusinessowner #brooklyn #digitalmarketing #businessgrowth #getfound #seo #freemockup #websitetips #anime #motiongraphics #sitelystudioo
 
-Files: `reel-01-midnight-search.mp4`, `reel-01-midnight-search-cover.jpg`, `reel-01-midnight-search-caption.txt`, `reel-01-midnight-search-hashtags.txt`
-
-## reel-02-four-seconds
+## 02 · Four Seconds
 - Business: Nonna's Table
-- Angle: Trust & first impressions — missing information reads as 'closed'
-- Hook: THEY GAVE YOU / FOUR SECONDS / THEN LEFT.
+- Angle: Trust & first impressions — missing info reads as 'closed'
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-02-four-seconds/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-02-four-seconds/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-02-four-seconds/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-02-four-seconds/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-02-four-seconds/reel-02-four-seconds-delivery.zip)
 
 **Caption:**
 
@@ -46,16 +53,17 @@ Want a free mockup?
 
 Save this ♻️  ·  Follow @sitely_studioo for more
 
+#restaurantmarketing #restaurantowner #smallbusiness #localbusiness #websitedesign #webdesigner #menudesign #hospitality #foodbusiness #restaurantlife #digitalmarketing #businessgrowth #firstimpressions #googlebusinessprofile #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
 **Hashtags:**
 
 #restaurantmarketing #restaurantowner #smallbusiness #localbusiness #websitedesign #webdesigner #menudesign #hospitality #foodbusiness #restaurantlife #digitalmarketing #businessgrowth #firstimpressions #googlebusinessprofile #freemockup #websitetips #anime #motiongraphics #sitelystudioo
 
-Files: `reel-02-four-seconds.mp4`, `reel-02-four-seconds-cover.jpg`, `reel-02-four-seconds-caption.txt`, `reel-02-four-seconds-hashtags.txt`
-
-## reel-03-rented-audience
+## 03 · You Rent Your Audience
 - Business: Petal & Stem
 - Angle: Ownership & automation — your business lives on rented land
-- Hook: YOU DON'T OWN / YOUR FOLLOWERS / YOU RENT THEM.
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-03-rented-audience/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-03-rented-audience/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-03-rented-audience/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-03-rented-audience/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-03-rented-audience/reel-03-rented-audience-delivery.zip)
 
 **Caption:**
 
@@ -72,18 +80,12 @@ Want a free mockup?
 
 Save this ♻️  ·  Follow @sitely_studioo for more
 
+#smallbusiness #smallbusinessowner #florist #flowershop #websitedesign #webdesigner #onlineordering #ecommerce #digitalmarketing #ownyouraudience #businessgrowth #localbusiness #whatsappbusiness #passiveincome #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
 **Hashtags:**
 
 #smallbusiness #smallbusinessowner #florist #flowershop #websitedesign #webdesigner #onlineordering #ecommerce #digitalmarketing #ownyouraudience #businessgrowth #localbusiness #whatsappbusiness #passiveincome #freemockup #websitetips #anime #motiongraphics #sitelystudioo
 
-Files: `reel-03-rented-audience.mp4`, `reel-03-rented-audience-cover.jpg`, `reel-03-rented-audience-caption.txt`, `reel-03-rented-audience-hashtags.txt`
-
-## Per-Reel ZIPs
-
-`reel-01-midnight-search-delivery.zip`, `reel-02-four-seconds-delivery.zip`,
-`reel-03-rented-audience-delivery.zip` — each bundles its MP4, cover, caption,
-hashtags and README. Direct MP4 links above are also available.
-
 ## Posting note
 
-No music is baked in. Add a low-volume trending track in the Instagram editor and set the matching `*-cover.jpg` as each Reel cover.
+No music is baked in. Add a low-volume trending track in the Instagram editor and set the matching `cover.jpg` as each Reel cover.

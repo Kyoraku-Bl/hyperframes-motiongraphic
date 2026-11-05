@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Read-only preview + direct-download server for the three-Reel campaign.
+"""Preview + download hub for the three-Reel campaign.
 
-Default routes keep `Content-Disposition: attachment` so every link stays a real
-download. Add `?inline=1` to any media path to drop that header — this is what the
-in-page <video>/<img> previews use. Byte ranges are supported for seeking.
+Download buttons point at GitHub's raw CDN. The sandbox preview proxy requires an
+`e2b-traffic-access-token` header, which a normal browser tab does not carry, so
+local /relative download links return 403 for the user. GitHub links are public and
+work from anywhere. Local routes are kept for the in-UI preview and for range tests;
+`?inline=1` drops Content-Disposition for media elements.
 """
 from __future__ import annotations
 
@@ -14,29 +16,46 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
 ROOT = Path(__file__).resolve().parent
+BRANCH = "arena/76da1170-hyperframes-motiongraphic"
+RAW = f"https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/{BRANCH}"
+BLOB = f"https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/{BRANCH}"
+
 ITEMS = [
     ("reel-01-midnight-search", "The Midnight Search", "Loss aversion — the sale you never knew you lost", "Sharp & Sons Barbershop"),
     ("reel-02-four-seconds", "Four Seconds", "Trust & first impressions — missing info reads as 'closed'", "Nonna's Table"),
     ("reel-03-rented-audience", "You Rent Your Audience", "Ownership & automation — your business lives on rented land", "Petal & Stem"),
 ]
 
+
+def links(slug):
+    return {
+        "mp4": f"{RAW}/{slug}/reel.mp4",
+        "cover": f"{RAW}/{slug}/delivery/cover.jpg",
+        "caption": f"{RAW}/{slug}/delivery/caption.txt",
+        "hashtags": f"{RAW}/{slug}/delivery/hashtags.txt",
+        "zip": f"{RAW}/{slug}/{slug}-delivery.zip",
+        "page": f"{BLOB}/{slug}/reel.mp4",
+    }
+
+
 CARDS = "".join(
-    f'''<section>
+    (lambda s, l: f'''<section>
   <div class="play">
     <video controls playsinline preload="none" width="230"
-      poster="/{slug}-cover.jpg?inline=1" src="/{slug}.mp4?inline=1"></video>
+      poster="{l['cover']}" src="{l['mp4']}"></video>
     <div class="meta">
       <h2>{i+1}. {title}</h2>
       <div class="biz">{biz}</div>
       <p class="angle">{angle}</p>
-      <a class="btn main" href="/{slug}.mp4" download>Download MP4</a>
-      <a class="btn" href="/{slug}-cover.jpg" download>Cover</a>
-      <a class="btn" href="/{slug}-caption.txt" download>Caption</a>
-      <a class="btn" href="/{slug}-hashtags.txt" download>Hashtags</a>
-      <a class="btn" href="/{slug}-delivery.zip" download>Full kit ZIP</a>
+      <a class="btn main" href="{l['zip']}">Download full kit ZIP</a>
+      <a class="btn" href="{l['mp4']}">MP4</a>
+      <a class="btn" href="{l['cover']}">Cover</a>
+      <a class="btn" href="{l['caption']}">Caption</a>
+      <a class="btn" href="{l['hashtags']}">Hashtags</a>
+      <a class="btn ghost" href="{l['page']}">GitHub page</a>
     </div>
   </div>
-</section>'''
+</section>''')(slug, links(slug))
     for i, (slug, title, angle, biz) in enumerate(ITEMS)
 )
 
@@ -45,9 +64,10 @@ INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <style>
 *{box-sizing:border-box}
 body{margin:0;background:#0c1310;color:#F3EEE2;font:16px/1.5 Inter,system-ui,sans-serif}
-main{max-width:860px;margin:0 auto;padding:38px 22px 60px}
+main{max-width:880px;margin:0 auto;padding:38px 22px 60px}
 h1{font-size:30px;line-height:1.15;margin:0 0 8px}
-p.lead{color:#b9c2b7;margin:0 0 26px}
+p.lead{color:#b9c2b7;margin:0 0 12px}
+p.note{background:#1a2b21;border-left:3px solid #F0C987;padding:10px 14px;border-radius:0 8px 8px 0;color:#e6ddc6;font-size:14px;margin:0 0 24px}
 section{border:1px solid #2c4b3c;border-radius:16px;padding:18px;margin:0 0 16px;background:#111e17}
 .play{display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap}
 video{width:230px;height:409px;object-fit:cover;background:#08110d;border-radius:10px;border:1px solid #2c4b3c;flex:0 0 auto}
@@ -57,19 +77,22 @@ h2{font-size:21px;margin:2px 0 4px} .biz{color:#e0c68a;font-size:15px}
 a.btn{display:inline-block;margin:5px 7px 5px 0;padding:10px 15px;border-radius:10px;
  background:#1F4736;color:#F3EEE2;text-decoration:none;font-weight:700;font-size:14px;border:1px solid #3b6a52}
 a.main{background:#F3EEE2;color:#121715;border-color:#F3EEE2}
+a.ghost{background:transparent;color:#b9c2b7}
 .zips{margin-top:24px;padding:18px;border:1px dashed #3b6a52;border-radius:14px}
 .zips h2{margin:0 0 10px;font-size:18px}
 small{display:block;margin-top:24px;color:#8d9a8f}
 </style></head><body><main>
 <h1>THREE REELS · THREE MARKETING ANGLES</h1>
 <p class="lead">1080 × 1920 · 30 fps · 18 s · H.264 + AAC · no music baked in. Press play to preview, or download.</p>
+<p class="note"><b>All downloads go to GitHub's CDN</b> — the sandbox preview proxy needs a traffic-access token, so its own URLs fail in a normal browser tab. Right-click an MP4 → “Save video as”, or take the ZIP for a one-click download.</p>
 """ + CARDS + """
 <div class="zips"><h2>Everything for one Reel, in one ZIP</h2>
 """ + "".join(
-    f'<a class="btn" href="/{slug}-delivery.zip" download>{i+1}. {title}</a>'
+    f'<a class="btn" href="{links(slug)["zip"]}">{i+1}. {title} — ZIP</a>'
     for i, (slug, title, _, _) in enumerate(ITEMS)
 ) + """
-<a class="btn" href="/INDEX.md">Full captions &amp; hashtags (text)</a></div>
+<a class="btn" href="/INDEX.md">Full captions &amp; hashtags (text)</a>
+<a class="btn ghost" href="https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/""" + BRANCH + """/DOWNLOADS.md">All links (DOWNLOADS.md)</a></div>
 <small>Add a low-volume trending track in the Instagram editor. Set each cover JPG as its Reel cover.</small>
 </main></body></html>"""
 
@@ -86,7 +109,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"3-reel-campaign","port":3005}'
+            body = b'{"status":"ok","service":"3-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
@@ -137,7 +160,6 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header("Content-Length", str(length))
         self.send_header("Accept-Ranges", "bytes")
         self.send_header("Access-Control-Allow-Origin", "*")
-        # Inline mode is only for the in-page preview; plain links stay downloads.
         if not inline and p.suffix in (".mp4", ".zip", ".jpg", ".txt"):
             self.send_header("Content-Disposition", f'attachment; filename="{p.name}"')
         if status == 206:
