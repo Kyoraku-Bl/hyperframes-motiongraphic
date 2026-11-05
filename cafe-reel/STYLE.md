@@ -46,7 +46,15 @@ Generate with `python tools/make_delivery.py` after editing `delivery.json`. The
 drawn from a clean plate (never a video frame, so no frozen subtitles), uses the same
 Inter typography, and keeps text inside the top/bottom safe zones so it survives
 Instagram's 3:4 grid crop. The video is always placed in the workspace and opened in
-the viewer for direct download — a link to an external host is not a delivery.
+the viewer for direct download — a link to an external host is not a delivery
+**on its own**. When the user explicitly asks for a direct download link, serve the
+MP4/ZIP over HTTP (attachment headers + byte ranges) *in addition to* the workspace
+files and the committed GitHub copy, never instead of them.
+
+**Multi-Reel campaigns:** every Reel keeps its own `<slug>/` folder exactly as above —
+never one video with three storylines. `campaign/` is a read-only download hub of
+symlinks into those folders, with `INDEX.md` (all captions/hashtags in one place) and
+`serve.py` (direct MP4, cover, caption, hashtag and per-Reel ZIP links).
 
 **Caption formula:** hook line → the transformation in one or two short sentences →
 the takeaway → one clear CTA (DM keyword) → save/follow line. Conversational, no

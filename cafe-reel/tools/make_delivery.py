@@ -85,7 +85,6 @@ def build_cover(cfg: dict, project: Path, font_path: Path) -> Image.Image:
     d = ImageDraw.Draw(im, "RGBA")
 
     f_kicker = font(font_path, 27)
-    f_head = font(font_path, 78)
     f_cta = font(font_path, 39)
     f_handle = font(font_path, 31)
 
@@ -93,6 +92,11 @@ def build_cover(cfg: dict, project: Path, font_path: Path) -> Image.Image:
     letterspaced(d, (W / 2, 282), c["kicker"], f_kicker, (*CREAM, 215), tracking=7)
 
     lines = c["headline"]
+    # Auto-fit so a long hook never runs past the 6% side margins.
+    f_head = font(font_path, 78)
+    widest = max(d.textlength(line, font=f_head) for line in lines)
+    if widest > W - 140:
+        f_head = font(font_path, max(50, int(78 * (W - 140) / widest)))
     line_h = 96
     y0 = 330
     for i, line in enumerate(lines):
@@ -149,7 +153,14 @@ def main() -> None:
     (out / "hashtags.txt").write_text(tags + "\n", encoding="utf-8")
 
     video = project / cfg["video"]
-    shutil.copy2(video, out / "reel.mp4")
+    # Symlink keeps one master on disk; zipfile and the download server follow it.
+    linked = out / "reel.mp4"
+    if linked.is_symlink() or linked.exists():
+        linked.unlink()
+    try:
+        linked.symlink_to(Path("..") / cfg["video"])
+    except OSError:
+        shutil.copy2(video, linked)
     (out / "README.txt").write_text(
         f"{cfg['slug']} — Reel delivery package\n\n"
         "reel.mp4       1080x1920 / 30 fps / 18 s master — upload this\n"
