@@ -8,7 +8,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=1080, height=1920" />
     <title>sitely_studioo — Your website. Done for you. (18s Reel)</title>
-    <script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script>
+    <!-- GSAP is vendored locally so renders never depend on the network. -->
+    <script src="assets/lib/gsap.min.js"></script>
     <style>
       :root {
         --cream: #f3eee2;
@@ -173,7 +174,15 @@
       <audio id="a-cup" class="clip" src="assets/audio/sfx-cup.wav" data-start="10.42" data-duration="0.34" data-volume="0.45" data-track-index="16"></audio>
       <audio id="a-cloth" class="clip" src="assets/audio/sfx-cloth.wav" data-start="11.85" data-duration="0.44" data-volume="0.3" data-track-index="17"></audio>
 
-      <!-- DIALOGUE CLIPS (voices) -->
+      <!-- DIALOGUE: 3 voices, natural pacing, slight Reel tempo -->
+      <audio id="a-behind" class="clip" src="assets/audio/vo-behind.mp3" data-start="0.15" data-duration="0.8" data-playback-rate="1.339" data-volume="0.95" data-track-index="18"></audio>
+      <audio id="a-hook" class="clip" src="assets/audio/vo-hook.mp3" data-start="0.98" data-duration="2.65" data-playback-rate="1.429" data-volume="0.98" data-track-index="19"></audio>
+      <audio id="a-five" class="clip" src="assets/audio/vo-five.mp3" data-start="3.66" data-duration="0.96" data-playback-rate="1.361" data-volume="0.98" data-track-index="20"></audio>
+      <audio id="a-time" class="clip" src="assets/audio/vo-time.mp3" data-start="4.64" data-duration="1.52" data-playback-rate="1.203" data-volume="0.9" data-track-index="21"></audio>
+      <audio id="a-wait" class="clip" src="assets/audio/vo-wait.mp3" data-start="6.35" data-duration="1.4" data-playback-rate="1.287" data-volume="0.9" data-track-index="22"></audio>
+      <audio id="a-vo" class="clip" src="assets/audio/vo-vo.mp3" data-start="8.1" data-duration="3.45" data-playback-rate="1.189" data-volume="1.0" data-track-index="23"></audio>
+      <audio id="a-thanks" class="clip" src="assets/audio/vo-thanks.mp3" data-start="11.57" data-duration="1.45" data-playback-rate="1.369" data-volume="0.9" data-track-index="24"></audio>
+      <audio id="a-cta" class="clip" src="assets/audio/vo-cta.mp3" data-start="13.05" data-duration="3.45" data-playback-rate="1.408" data-volume="1.0" data-track-index="25"></audio>
     </div>
     <script>
       window.__timelines["main"] = gsap.timeline({ paused: true });

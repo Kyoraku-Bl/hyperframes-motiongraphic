@@ -63,8 +63,10 @@
     #c4-loop {
       z-index: 3;
     }
+    /* Exactly the t=0 state of #h1-walk-cam + #h1-walk-shake (GSAP writes
+       translate before scale), so frame 539 == frame 0 and the loop is clean. */
     #c4-loop-cam {
-      transform: scale(1.16) translate(-46px, 8px);
+      transform: translate(-53px, 12px) scale(1.16);
     }
     #c4-loop-hook-clip {
       z-index: 4;
