@@ -1,0 +1,143 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: visible;
+      pointer-events: none;
+    }
+    .cap {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+    .cap-inner {
+      position: absolute;
+      left: 64px;
+      right: 64px;
+      top: 1148px;
+      text-align: center;
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 76px;
+      line-height: 1.14;
+      letter-spacing: -0.025em;
+      color: #f3eee2;
+      text-shadow: 4px 4px 0 #121715, -4px 4px 0 #121715, 4px -4px 0 #121715, -4px -4px 0 #121715, 0 12px 30px rgba(0, 0, 0, 0.9);
+      overflow: visible;
+    }
+    .w {
+      display: inline-block;
+      margin: 0 7px;
+      opacity: 0;
+      transform-origin: 50% 65%;
+    }
+    .w.hl {
+      background: #1f4736;
+      color: #f3eee2;
+      padding: 0 16px 7px;
+      border-radius: 12px;
+      box-shadow: 0 8px 0 rgba(9, 25, 17, 0.55);
+    }
+  </style>
+
+  <div id="root" data-composition-id="captions" data-width="1080" data-height="1920" data-duration="18">
+    <!-- 0.00-3.00 HOOK -->
+    <div id="cap-01" class="cap clip" data-start="0.28" data-duration="0.57" data-track-index="1">
+      <div class="cap-inner"><span class="w">Behind</span><span class="w">you!</span></div>
+    </div>
+    <div id="cap-02" class="cap clip" data-start="0.9" data-duration="0.88" data-track-index="2">
+      <div class="cap-inner"><span class="w">Your business</span><span class="w">is open</span></div>
+    </div>
+    <div id="cap-03" class="cap clip" data-start="1.78" data-duration="0.5" data-track-index="3">
+      <div class="cap-inner"><span class="w">but online,</span></div>
+    </div>
+    <div id="cap-04" class="cap clip" data-start="2.28" data-duration="1.08" data-track-index="4">
+      <div class="cap-inner"><span class="w hl">nobody</span><span class="w">can find</span><span class="w">you.</span></div>
+    </div>
+
+    <!-- 3.00-8.00 PITCH -->
+    <div id="cap-05" class="cap clip" data-start="3.55" data-duration="0.82" data-track-index="5">
+      <div class="cap-inner"><span class="w">Give me</span><span class="w hl">five minutes.</span></div>
+    </div>
+    <div id="cap-06" class="cap clip" data-start="4.4" data-duration="0.68" data-track-index="6">
+      <div class="cap-inner"><span class="w">I don't have</span><span class="w">time</span></div>
+    </div>
+    <div id="cap-07" class="cap clip" data-start="5.08" data-duration="0.38" data-track-index="7">
+      <div class="cap-inner"><span class="w">for this.</span></div>
+    </div>
+    <div id="cap-08" class="cap clip" data-start="6.68" data-duration="0.88" data-track-index="8">
+      <div class="cap-inner"><span class="w">Wait...</span><span class="w">that's</span><span class="w hl">my café?</span></div>
+    </div>
+
+    <!-- 8.00-13.00 PROOF (voiceover, then the customer's line bridging the cut) -->
+    <div id="cap-09" class="cap clip" data-start="8.12" data-duration="1.03" data-track-index="9">
+      <div class="cap-inner"><span class="w">A simple,</span><span class="w hl">fast website</span></div>
+    </div>
+    <div id="cap-10" class="cap clip" data-start="9.15" data-duration="1.0" data-track-index="10">
+      <div class="cap-inner"><span class="w">and customers</span><span class="w">start</span></div>
+    </div>
+    <div id="cap-11" class="cap clip" data-start="10.15" data-duration="1.2" data-track-index="11">
+      <div class="cap-inner"><span class="w">coming</span><span class="w">to you.</span></div>
+    </div>
+    <div id="cap-12" class="cap clip" data-start="11.45" data-duration="1.0" data-track-index="12">
+      <div class="cap-inner"><span class="w">Thanks, found</span><span class="w">you</span><span class="w hl">online!</span></div>
+    </div>
+
+    <!-- 13.00-16.50 CTA -->
+    <div id="cap-13" class="cap clip" data-start="13.08" data-duration="0.77" data-track-index="13">
+      <div class="cap-inner"><span class="w">Want a</span><span class="w">website</span></div>
+    </div>
+    <div id="cap-14" class="cap clip" data-start="13.85" data-duration="0.8" data-track-index="14">
+      <div class="cap-inner"><span class="w">for your</span><span class="w">business?</span></div>
+    </div>
+    <div id="cap-15" class="cap clip" data-start="14.65" data-duration="0.7" data-track-index="15">
+      <div class="cap-inner"><span class="w">DM</span><span class="w hl">'FREE'</span></div>
+    </div>
+    <div id="cap-16" class="cap clip" data-start="15.35" data-duration="0.6" data-track-index="16">
+      <div class="cap-inner"><span class="w">to get your</span></div>
+    </div>
+    <div id="cap-17" class="cap clip" data-start="15.95" data-duration="0.55" data-track-index="17">
+      <div class="cap-inner"><span class="w hl">free mockup.</span></div>
+    </div>
+  </div>
+
+  <script>
+    // Word-by-word Reels captions, one group visible at a time, hard-killed at
+    // each group's end so no stale text survives a seek backwards.
+    const groups = [
+      ["cap-01", 0.28, 0.85],
+      ["cap-02", 0.9, 1.78],
+      ["cap-03", 1.78, 2.28],
+      ["cap-04", 2.28, 3.36],
+      ["cap-05", 3.55, 4.37],
+      ["cap-06", 4.4, 5.08],
+      ["cap-07", 5.08, 5.46],
+      ["cap-08", 6.68, 7.56],
+      ["cap-09", 8.12, 9.15],
+      ["cap-10", 9.15, 10.15],
+      ["cap-11", 10.15, 11.35],
+      ["cap-12", 11.45, 12.45],
+      ["cap-13", 13.08, 13.85],
+      ["cap-14", 13.85, 14.65],
+      ["cap-15", 14.65, 15.35],
+      ["cap-16", 15.35, 15.95],
+      ["cap-17", 15.95, 16.5],
+    ];
+
+    const tl = gsap.timeline({ paused: true });
+    groups.forEach(([id, start, end]) => {
+      const inner = `#${id} .cap-inner`;
+      tl.fromTo(
+        `${inner} .w`,
+        { opacity: 0, y: 22, scale: 0.9 },
+        { opacity: 1, y: 0, scale: 1, duration: 0.16, stagger: 0.055, ease: "back.out(2)" },
+        start,
+      );
+      tl.to(inner, { opacity: 0, duration: 0.1, ease: "power2.in" }, end - 0.1);
+      tl.set(inner, { opacity: 0, visibility: "hidden" }, end);
+    });
+
+    window.__timelines["captions"] = tl;
+  </script>
+</template>
