@@ -35,6 +35,10 @@ npx hyperframes audio reel.mp4 --json → 0 warnings
 npx hyperframes render . -o reel.mp4 -f 30 -q looks --workers 2 → exit 0, 540/540 frames
 ```
 
+`npx hyperframes check . --snapshots --json` → `ok true`, five contrast-pass PNGs saved
+at 1 / 5 / 9 / 13 / 17 s, no finding files. The 17 s frame confirms the cream end card
+centred in the safe zone over a darkened plate.
+
 `npx hyperframes usage --json` returns `status: unknown / unsupported_harness` in this
 sandbox; no quota/telemetry data is available here.
 
