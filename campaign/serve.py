@@ -24,6 +24,11 @@ ITEMS = [
     ("reel-01-midnight-search", "The Midnight Search", "Loss aversion — the sale you never knew you lost", "Sharp & Sons Barbershop"),
     ("reel-02-four-seconds", "Four Seconds", "Trust & first impressions — missing info reads as 'closed'", "Nonna's Table"),
     ("reel-03-rented-audience", "You Rent Your Audience", "Ownership & automation — your business lives on rented land", "Petal & Stem"),
+    ("reel-04-the-referral", "The Referral That Died", "Referral leakage — word of mouth with nowhere to land", "Sami's Auto Garage"),
+    ("reel-05-the-shortlist", "The 30-Second Shortlist", "Comparison shopping — buyers decide from proof, not promises", "Atelier Bloom"),
+    ("reel-06-ninety-seconds", "90 Seconds", "Impulse decay — intent expires before you can answer it", "Southside Boxing Club"),
+    ("reel-07-the-invoice", "The Invoice You Never Sent", "Quantified inaction — the money you can actually count", "Lumen Cleaning Co."),
+    ("reel-08-the-big-client", "The Big Client", "Legitimacy gate — a website makes you credible to bigger clients", "Atlas Woodworks"),
 ]
 
 
@@ -60,7 +65,7 @@ CARDS = "".join(
 )
 
 INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1"><title>3 Reels — preview &amp; download</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>8 Reels — preview &amp; download</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;background:#0c1310;color:#F3EEE2;font:16px/1.5 Inter,system-ui,sans-serif}
@@ -82,7 +87,7 @@ a.ghost{background:transparent;color:#b9c2b7}
 .zips h2{margin:0 0 10px;font-size:18px}
 small{display:block;margin-top:24px;color:#8d9a8f}
 </style></head><body><main>
-<h1>THREE REELS · THREE MARKETING ANGLES</h1>
+<h1>EIGHT REELS · EIGHT MARKETING ANGLES</h1>
 <p class="lead">1080 × 1920 · 30 fps · 18 s · H.264 + AAC · no music baked in. Press play to preview, or download.</p>
 <p class="note"><b>All downloads go to GitHub's CDN</b> — the sandbox preview proxy needs a traffic-access token, so its own URLs fail in a normal browser tab. Right-click an MP4 → “Save video as”, or take the ZIP for a one-click download.</p>
 """ + CARDS + """
@@ -109,7 +114,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"3-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"8-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))

@@ -17,6 +17,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 01 · The Midnight Search | [reel-01-midnight-search-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-01-midnight-search/reel-01-midnight-search-delivery.zip) | 13.8 MB |
 | 02 · Four Seconds | [reel-02-four-seconds-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-02-four-seconds/reel-02-four-seconds-delivery.zip) | 14.2 MB |
 | 03 · You Rent Your Audience | [reel-03-rented-audience-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-03-rented-audience/reel-03-rented-audience-delivery.zip) | 14.3 MB |
+| 04 · The Referral That Died | [reel-04-the-referral-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/reel-04-the-referral-delivery.zip) | 14.9 MB |
+| 05 · The 30-Second Shortlist | [reel-05-the-shortlist-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/reel-05-the-shortlist-delivery.zip) | 14.2 MB |
+| 06 · 90 Seconds | [reel-06-ninety-seconds-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/reel-06-ninety-seconds-delivery.zip) | 13.6 MB |
+| 07 · The Invoice You Never Sent | [reel-07-the-invoice-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/reel-07-the-invoice-delivery.zip) | 13.3 MB |
+| 08 · The Big Client | [reel-08-the-big-client-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/reel-08-the-big-client-delivery.zip) | 13.9 MB |
 
 ## All files
 
@@ -62,3 +67,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - All files are 1080 × 1920 / 30 fps / 18 s / H.264 + AAC stereo.
 - If a raw URL is ever unavailable, use the corresponding `github.com/.../blob/...` page
   and click **Download raw**.
+
+### 04 · The Referral That Died
+*Sami's Auto Garage — Referral leakage — word of mouth with nowhere to land*
+
+- **Video:** [reel-04-the-referral.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/reel.mp4) — 14.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/reel.mp4)
+- **Cover:** [reel-04-the-referral-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/delivery/cover.jpg) — 605 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/delivery/cover.jpg)
+- **Caption:** [reel-04-the-referral/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/delivery/caption.txt)
+- **Hashtags:** [reel-04-the-referral/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/delivery/hashtags.txt)
+- **Full ZIP:** [reel-04-the-referral-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-04-the-referral/reel-04-the-referral-delivery.zip)
+
+### 05 · The 30-Second Shortlist
+*Atelier Bloom (wedding cakes) — Comparison shopping — buyers decide from proof, not promises*
+
+- **Video:** [reel-05-the-shortlist.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/reel.mp4) — 13.5 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/reel.mp4)
+- **Cover:** [reel-05-the-shortlist-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/delivery/cover.jpg) — 640 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/delivery/cover.jpg)
+- **Caption:** [reel-05-the-shortlist/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/delivery/caption.txt)
+- **Hashtags:** [reel-05-the-shortlist/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/delivery/hashtags.txt)
+- **Full ZIP:** [reel-05-the-shortlist-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-05-the-shortlist/reel-05-the-shortlist-delivery.zip)
+
+### 06 · 90 Seconds
+*Southside Boxing Club — Impulse decay — intent expires before you can answer it*
+
+- **Video:** [reel-06-ninety-seconds.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/reel.mp4) — 13.1 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/reel.mp4)
+- **Cover:** [reel-06-ninety-seconds-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/delivery/cover.jpg) — 498 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/delivery/cover.jpg)
+- **Caption:** [reel-06-ninety-seconds/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/delivery/caption.txt)
+- **Hashtags:** [reel-06-ninety-seconds/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/delivery/hashtags.txt)
+- **Full ZIP:** [reel-06-ninety-seconds-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/reel-06-ninety-seconds-delivery.zip)
+
+### 07 · The Invoice You Never Sent
+*Lumen Cleaning Co. — Quantified cost of inaction — the money you can actually count*
+
+- **Video:** [reel-07-the-invoice.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/reel.mp4) — 12.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/reel.mp4)
+- **Cover:** [reel-07-the-invoice-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/delivery/cover.jpg) — 517 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/delivery/cover.jpg)
+- **Caption:** [reel-07-the-invoice/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/delivery/caption.txt)
+- **Hashtags:** [reel-07-the-invoice/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/delivery/hashtags.txt)
+- **Full ZIP:** [reel-07-the-invoice-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/reel-07-the-invoice-delivery.zip)
+
+### 08 · The Big Client
+*Atlas Woodworks — Legitimacy gate — a website makes you credible to bigger clients*
+
+- **Video:** [reel-08-the-big-client.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/reel.mp4) — 13.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/reel.mp4)
+- **Cover:** [reel-08-the-big-client-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/delivery/cover.jpg) — 618 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/delivery/cover.jpg)
+- **Caption:** [reel-08-the-big-client/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/delivery/caption.txt)
+- **Hashtags:** [reel-08-the-big-client/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/delivery/hashtags.txt)
+- **Full ZIP:** [reel-08-the-big-client-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/reel-08-the-big-client-delivery.zip)
