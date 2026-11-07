@@ -1,4 +1,4 @@
-# Eight Reels — eight marketing angles
+# Thirteen Reels — thirteen marketing angles
 
 **Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
@@ -230,3 +230,138 @@ Save this ♻️  ·  Follow @sitely_studioo for more
 **Hashtags:**
 
 #woodworking #furnituremaker #customfurniture #craftbusiness #maker #smallbusiness #localbusiness #websitedesign #webdesigner #portfolio #b2b #corporateclients #brandcredibility #digitalmarketing #businessgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 09 · Stop the DM Pile-Up
+- Business: Lina's Boutique
+- Angle: DM overload — slow replies send buyers elsewhere
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/reel-09-dm-pileup-delivery.zip)
+
+**Caption:**
+
+Stop! Stop! Stop! 🛑
+
+You sell on Instagram with no website? Then listen: every 'price please' sits in your DMs for hours… and buyers don't wait. They buy from someone else.
+
+A simple website shows prices, takes orders and gets paid — day and night, even while you sleep. That is how small shops turn DMs into real sales growth.
+
+Want a free mockup for your shop?
+👉 DM me 'FREE' and I'll build it.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#onlineshopping #instagramshop #smallboutique #dmtoorder #supportsmallbusiness #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialselling #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#onlineshopping #instagramshop #smallboutique #dmtoorder #supportsmallbusiness #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialselling #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#onlineshopping #instagramshop #smallboutique #dmtoorder #supportsmallbusiness #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialselling #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 10 · Etsy Takes a Cut
+- Business: Ember & Oak Candles
+- Angle: Marketplace fees — Etsy takes a cut of every sale
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/reel-10-etsy-cut-delivery.zip)
+
+**Caption:**
+
+Wait! Wait! Wait! 🕯️
+
+You sell on Etsy? Then you pay a fee on EVERY sale — plus listing fees, plus ads just to be seen. And the customer remembers Etsy… not your name.
+
+Your own website keeps 100% of every sale. Your name, your brand, your customers. That is how makers turn craft into growing income.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#etsyseller #etsyshop #handmadebusiness #candlebusiness #makersgonnamake #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #ownyourbrand #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#etsyseller #etsyshop #handmadebusiness #candlebusiness #makersgonnamake #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #ownyourbrand #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#etsyseller #etsyshop #handmadebusiness #candlebusiness #makersgonnamake #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #ownyourbrand #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 11 · 200 Views, 3 Orders
+- Business: Sugar Rush Bakery
+- Angle: Views without checkout — stories don't take orders
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel-11-story-views-delivery.zip)
+
+**Caption:**
+
+Stop scrolling! 🧁
+
+200 people watched your story. 3 ordered. Why? Because watching is easy and ordering is hard — no menu, no prices, no button to pay.
+
+A simple website turns your stories into a shop: they tap, they pay, you bake. More orders from the same views. That is sales growth on autopilot.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#homebakery #bakingbusiness #cakeshop #dessertbusiness #foodbusiness #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlineordering #sellonline #instagramfood #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#homebakery #bakingbusiness #cakeshop #dessertbusiness #foodbusiness #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlineordering #sellonline #instagramfood #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#homebakery #bakingbusiness #cakeshop #dessertbusiness #foodbusiness #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlineordering #sellonline #instagramfood #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 12 · No Website, No Trust
+- Business: Glow by Sara
+- Angle: Trust gap — no website reads as risky
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel-12-no-trust-delivery.zip)
+
+**Caption:**
+
+Wait! Don't skip! ✨
+
+She LOVES your product… but she doesn't trust a page with no website, no reviews and 'DM to pay'. So she closes the page. Sale lost.
+
+A real website builds trust in seconds: reviews, clear prices, safe checkout. Trust brings sales. Sales bring growth. Simple.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#skincarebusiness #beautybusiness #cosmetics #smallbeautybrand #glowup #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialproof #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#skincarebusiness #beautybusiness #cosmetics #smallbeautybrand #glowup #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialproof #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#skincarebusiness #beautybusiness #cosmetics #smallbeautybrand #glowup #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialproof #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 13 · The Link Jungle
+- Business: Retro Rack Thrift
+- Angle: Link chaos — five bio links, zero clarity
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel-13-link-jungle-delivery.zip)
+
+**Caption:**
+
+Stop! Look at this! 👕
+
+Five links in your bio — WhatsApp here, form there, prices somewhere else. Buyers get lost and leave. Confused people don't buy.
+
+One website ends the chaos: everything in one place, order in one tap. Easy buying means more buying. That is how sales grow.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#thriftstore #thriftfinds #vintageclothing #onlinethrift #reseller #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #vintageshop #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#thriftstore #thriftfinds #vintageclothing #onlinethrift #reseller #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #vintageshop #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#thriftstore #thriftfinds #vintageclothing #onlinethrift #reseller #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #vintageshop #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo

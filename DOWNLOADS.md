@@ -22,6 +22,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 06 · 90 Seconds | [reel-06-ninety-seconds-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-06-ninety-seconds/reel-06-ninety-seconds-delivery.zip) | 13.6 MB |
 | 07 · The Invoice You Never Sent | [reel-07-the-invoice-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-07-the-invoice/reel-07-the-invoice-delivery.zip) | 13.3 MB |
 | 08 · The Big Client | [reel-08-the-big-client-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/reel-08-the-big-client-delivery.zip) | 13.9 MB |
+| 09 · Stop the DM Pile-Up | [reel-09-dm-pileup-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/reel-09-dm-pileup-delivery.zip) | 13.7 MB |
+| 10 · Etsy Takes a Cut | [reel-10-etsy-cut-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/reel-10-etsy-cut-delivery.zip) | 13.9 MB |
+| 11 · 200 Views, 3 Orders | [reel-11-story-views-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel-11-story-views-delivery.zip) | 13.7 MB |
+| 12 · No Website, No Trust | [reel-12-no-trust-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel-12-no-trust-delivery.zip) | 13.3 MB |
+| 13 · The Link Jungle | [reel-13-link-jungle-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel-13-link-jungle-delivery.zip) | 13.8 MB |
 
 ## All files
 
@@ -112,3 +117,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-08-the-big-client/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/delivery/caption.txt)
 - **Hashtags:** [reel-08-the-big-client/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/delivery/hashtags.txt)
 - **Full ZIP:** [reel-08-the-big-client-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-08-the-big-client/reel-08-the-big-client-delivery.zip)
+
+### 09 · Stop the DM Pile-Up
+*Lina's Boutique — DM overload — slow replies send buyers elsewhere*
+
+- **Video:** [reel-09-dm-pileup.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/reel.mp4) — 13.1 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/reel.mp4)
+- **Cover:** [reel-09-dm-pileup-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/cover.jpg) — 611 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/cover.jpg)
+- **Caption:** [reel-09-dm-pileup/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/caption.txt)
+- **Hashtags:** [reel-09-dm-pileup/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/delivery/hashtags.txt)
+- **Full ZIP:** [reel-09-dm-pileup-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-09-dm-pileup/reel-09-dm-pileup-delivery.zip)
+
+### 10 · Etsy Takes a Cut
+*Ember & Oak Candles — Marketplace fees — Etsy takes a cut of every sale*
+
+- **Video:** [reel-10-etsy-cut.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/reel.mp4) — 13.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/reel.mp4)
+- **Cover:** [reel-10-etsy-cut-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/cover.jpg) — 569 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/cover.jpg)
+- **Caption:** [reel-10-etsy-cut/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/caption.txt)
+- **Hashtags:** [reel-10-etsy-cut/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/delivery/hashtags.txt)
+- **Full ZIP:** [reel-10-etsy-cut-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-10-etsy-cut/reel-10-etsy-cut-delivery.zip)
+
+### 11 · 200 Views, 3 Orders
+*Sugar Rush Bakery — Views without checkout — stories don't take orders*
+
+- **Video:** [reel-11-story-views.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel.mp4) — 13.2 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel.mp4)
+- **Cover:** [reel-11-story-views-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/cover.jpg) — 580 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/cover.jpg)
+- **Caption:** [reel-11-story-views/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/caption.txt)
+- **Hashtags:** [reel-11-story-views/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/delivery/hashtags.txt)
+- **Full ZIP:** [reel-11-story-views-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel-11-story-views-delivery.zip)
+
+### 12 · No Website, No Trust
+*Glow by Sara — Trust gap — no website reads as risky*
+
+- **Video:** [reel-12-no-trust.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel.mp4) — 12.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel.mp4)
+- **Cover:** [reel-12-no-trust-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/cover.jpg) — 526 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/cover.jpg)
+- **Caption:** [reel-12-no-trust/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/caption.txt)
+- **Hashtags:** [reel-12-no-trust/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/delivery/hashtags.txt)
+- **Full ZIP:** [reel-12-no-trust-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel-12-no-trust-delivery.zip)
+
+### 13 · The Link Jungle
+*Retro Rack Thrift — Link chaos — five bio links, zero clarity*
+
+- **Video:** [reel-13-link-jungle.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel.mp4) — 13.1 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel.mp4)
+- **Cover:** [reel-13-link-jungle-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/cover.jpg) — 658 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/cover.jpg)
+- **Caption:** [reel-13-link-jungle/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/caption.txt)
+- **Hashtags:** [reel-13-link-jungle/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/hashtags.txt)
+- **Full ZIP:** [reel-13-link-jungle-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel-13-link-jungle-delivery.zip)

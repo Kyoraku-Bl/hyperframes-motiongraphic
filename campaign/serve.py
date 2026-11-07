@@ -29,6 +29,11 @@ ITEMS = [
     ("reel-06-ninety-seconds", "90 Seconds", "Impulse decay — intent expires before you can answer it", "Southside Boxing Club"),
     ("reel-07-the-invoice", "The Invoice You Never Sent", "Quantified inaction — the money you can actually count", "Lumen Cleaning Co."),
     ("reel-08-the-big-client", "The Big Client", "Legitimacy gate — a website makes you credible to bigger clients", "Atlas Woodworks"),
+    ("reel-09-dm-pileup", "Stop the DM Pile-Up", "DM overload — slow replies send buyers elsewhere", "Lina's Boutique"),
+    ("reel-10-etsy-cut", "Etsy Takes a Cut", "Marketplace fees — Etsy takes a cut of every sale", "Ember & Oak"),
+    ("reel-11-story-views", "200 Views, 3 Orders", "Views without checkout — stories don't take orders", "Sugar Rush Bakery"),
+    ("reel-12-no-trust", "No Website, No Trust", "Trust gap — no website reads as risky", "Glow by Sara"),
+    ("reel-13-link-jungle", "The Link Jungle", "Link chaos — five bio links, zero clarity", "Retro Rack Thrift"),
 ]
 
 
@@ -65,7 +70,7 @@ CARDS = "".join(
 )
 
 INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1"><title>8 Reels — preview &amp; download</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>13 Reels — preview &amp; download</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;background:#0c1310;color:#F3EEE2;font:16px/1.5 Inter,system-ui,sans-serif}
@@ -87,7 +92,7 @@ a.ghost{background:transparent;color:#b9c2b7}
 .zips h2{margin:0 0 10px;font-size:18px}
 small{display:block;margin-top:24px;color:#8d9a8f}
 </style></head><body><main>
-<h1>EIGHT REELS · EIGHT MARKETING ANGLES</h1>
+<h1>THIRTEEN REELS · THIRTEEN ANGLES</h1>
 <p class="lead">1080 × 1920 · 30 fps · 18 s · H.264 + AAC · no music baked in. Press play to preview, or download.</p>
 <p class="note"><b>All downloads go to GitHub's CDN</b> — the sandbox preview proxy needs a traffic-access token, so its own URLs fail in a normal browser tab. Right-click an MP4 → “Save video as”, or take the ZIP for a one-click download.</p>
 """ + CARDS + """
@@ -114,7 +119,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"8-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"13-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
