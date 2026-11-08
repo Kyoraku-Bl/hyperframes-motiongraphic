@@ -27,6 +27,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 11 · 200 Views, 3 Orders | [reel-11-story-views-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-11-story-views/reel-11-story-views-delivery.zip) | 13.7 MB |
 | 12 · No Website, No Trust | [reel-12-no-trust-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-12-no-trust/reel-12-no-trust-delivery.zip) | 13.3 MB |
 | 13 · The Link Jungle | [reel-13-link-jungle-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel-13-link-jungle-delivery.zip) | 13.8 MB |
+| 14 · Your Rival Thanks You | [reel-14-rival-thanks-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/reel-14-rival-thanks-delivery.zip) | 14.1 MB |
+| 15 · Buried Proof | [reel-15-buried-proof-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/reel-15-buried-proof-delivery.zip) | 14.4 MB |
+| 16 · Show Your Prices | [reel-16-show-prices-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel-16-show-prices-delivery.zip) | 13.4 MB |
+| 17 · Famous on One Street | [reel-17-one-street-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel-17-one-street-delivery.zip) | 14.5 MB |
+| 18 · Losing Is Expensive | [reel-18-losing-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel-18-losing-expensive-delivery.zip) | 14.7 MB |
 
 ## All files
 
@@ -162,3 +167,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-13-link-jungle/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/caption.txt)
 - **Hashtags:** [reel-13-link-jungle/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/delivery/hashtags.txt)
 - **Full ZIP:** [reel-13-link-jungle-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-13-link-jungle/reel-13-link-jungle-delivery.zip)
+
+### 14 · Your Rival Thanks You
+*FixPoint Phone Repair — Competitor theft — no site sends customers to your rival*
+
+- **Video:** [reel-14-rival-thanks.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/reel.mp4) — 13.6 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/reel.mp4)
+- **Cover:** [reel-14-rival-thanks-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/cover.jpg) — 570 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/cover.jpg)
+- **Caption:** [reel-14-rival-thanks/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/caption.txt)
+- **Hashtags:** [reel-14-rival-thanks/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/hashtags.txt)
+- **Full ZIP:** [reel-14-rival-thanks-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/reel-14-rival-thanks-delivery.zip)
+
+### 15 · Buried Proof
+*KickZone Sneakers — Buried proof — your reviews are hidden in screenshots*
+
+- **Video:** [reel-15-buried-proof.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/reel.mp4) — 13.7 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/reel.mp4)
+- **Cover:** [reel-15-buried-proof-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/cover.jpg) — 651 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/cover.jpg)
+- **Caption:** [reel-15-buried-proof/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/caption.txt)
+- **Hashtags:** [reel-15-buried-proof/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/hashtags.txt)
+- **Full ZIP:** [reel-15-buried-proof-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/reel-15-buried-proof-delivery.zip)
+
+### 16 · Show Your Prices
+*Velvet Hair Studio — Hidden prices read as expensive — silence loses chairs*
+
+- **Video:** [reel-16-show-prices.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel.mp4) — 12.9 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel.mp4)
+- **Cover:** [reel-16-show-prices-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/cover.jpg) — 499 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/cover.jpg)
+- **Caption:** [reel-16-show-prices/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/caption.txt)
+- **Hashtags:** [reel-16-show-prices/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/hashtags.txt)
+- **Full ZIP:** [reel-16-show-prices-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel-16-show-prices-delivery.zip)
+
+### 17 · Famous on One Street
+*AquaPro Plumbing — One street vs the whole city — reach limits growth*
+
+- **Video:** [reel-17-one-street.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel.mp4) — 13.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel.mp4)
+- **Cover:** [reel-17-one-street-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/cover.jpg) — 650 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/cover.jpg)
+- **Caption:** [reel-17-one-street/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/caption.txt)
+- **Hashtags:** [reel-17-one-street/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/hashtags.txt)
+- **Full ZIP:** [reel-17-one-street-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel-17-one-street-delivery.zip)
+
+### 18 · Losing Is Expensive
+*El Fuego Tacos — Objection crusher — losing customers costs more than a site*
+
+- **Video:** [reel-18-losing-expensive.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel.mp4) — 13.9 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel.mp4)
+- **Cover:** [reel-18-losing-expensive-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/cover.jpg) — 747 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/cover.jpg)
+- **Caption:** [reel-18-losing-expensive/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/caption.txt)
+- **Hashtags:** [reel-18-losing-expensive/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/hashtags.txt)
+- **Full ZIP:** [reel-18-losing-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel-18-losing-expensive-delivery.zip)

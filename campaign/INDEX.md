@@ -1,4 +1,4 @@
-# Thirteen Reels — thirteen marketing angles
+# Eighteen Reels — eighteen marketing angles
 
 **Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
@@ -365,3 +365,138 @@ Save this ♻️  ·  Follow @sitely_studioo for more
 **Hashtags:**
 
 #thriftstore #thriftfinds #vintageclothing #onlinethrift #reseller #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #vintageshop #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 14 · Your Rival Thanks You
+- Business: FixPoint Phone Repair
+- Angle: Competitor theft — no site sends customers to your rival
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-14-rival-thanks/reel-14-rival-thanks-delivery.zip)
+
+**Caption:**
+
+Stooooooop! 🛑
+
+See that phone repair shop across the street? Every customer YOU lose walks straight into THEIR door. No website means you don't exist on Google — but your rival does.
+
+A simple website puts you FIRST when people search 'phone repair near me'. Take back your customers. Take back your street.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#phonerepair #repairshop #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #getfound #seo #googlemybusiness #digitalmarketing #businessgrowth #salesgrowth #beatthecompetition #entrepreneur #freemockup #shopsmall #anime #motiongraphics #sitelystudioo
+
+#phonerepair #repairshop #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #getfound #seo #googlemybusiness #digitalmarketing #businessgrowth #salesgrowth #beatthecompetition #entrepreneur #freemockup #shopsmall #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#phonerepair #repairshop #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #getfound #seo #googlemybusiness #digitalmarketing #businessgrowth #salesgrowth #beatthecompetition #entrepreneur #freemockup #shopsmall #anime #motiongraphics #sitelystudioo
+
+## 15 · Buried Proof
+- Business: KickZone Sneakers
+- Angle: Buried proof — your reviews are hidden in screenshots
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-15-buried-proof/reel-15-buried-proof-delivery.zip)
+
+**Caption:**
+
+Stop! Stop! Stoooop! 👟
+
+200 happy buyers… and ZERO reviews anyone can see. Your proof is buried in old chats and screenshots while buyers trust the shop WITH stars.
+
+A website shows your reviews to every visitor, day and night. Proof sells. Stars sell. Watch your sales explode.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#sneakerstore #sneakerhead #streetwear #hypebeast #shopsmall #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialproof #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#sneakerstore #sneakerhead #streetwear #hypebeast #shopsmall #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialproof #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#sneakerstore #sneakerhead #streetwear #hypebeast #shopsmall #smallbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #onlinestore #sellonline #socialproof #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 16 · Show Your Prices
+- Business: Velvet Hair Studio
+- Angle: Hidden prices read as expensive — silence loses chairs
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel-16-show-prices-delivery.zip)
+
+**Caption:**
+
+Wait! Wait! Waaait! 💇‍♀️
+
+No prices on your page? Bad news: people don't ask — they ASSUME you're expensive and book somewhere else. Silence about prices costs you chairs every day.
+
+A website shows your prices proudly. Fair prices fill chairs. Full chairs grow sales. Simple.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#hairsalon #hairstylist #salonowner #beautysalon #salonbusiness #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+#hairsalon #hairstylist #salonowner #beautysalon #salonbusiness #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#hairsalon #hairstylist #salonowner #beautysalon #salonbusiness #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 17 · Famous on One Street
+- Business: AquaPro Plumbing
+- Angle: One street vs the whole city — reach limits growth
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel-17-one-street-delivery.zip)
+
+**Caption:**
+
+Hey! Hey! Heeey! 🔧
+
+Your street knows you're the best plumber alive. But the CITY? They've never heard your name — because the city searches on Google, not on your street.
+
+A website takes you from one street to the whole city. More calls. More jobs. Bigger name. Grow big!
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#plumber #plumbinglife #tradesbusiness #servicebusiness #homeservices #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #getfound #seo #onlinebooking #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+#plumber #plumbinglife #tradesbusiness #servicebusiness #homeservices #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #getfound #seo #onlinebooking #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#plumber #plumbinglife #tradesbusiness #servicebusiness #homeservices #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #getfound #seo #onlinebooking #digitalmarketing #businessgrowth #salesgrowth #freemockup #anime #motiongraphics #sitelystudioo
+
+## 18 · Losing Is Expensive
+- Business: El Fuego Tacos
+- Angle: Objection crusher — losing customers costs more than a site
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel-18-losing-expensive-delivery.zip)
+
+**Caption:**
+
+No! No! Nooo! 🌮
+
+'A website is too expensive.' Really? One lost customer a week costs you MORE than a website costs all year. The website isn't expensive — LOSING customers is!
+
+A simple site takes orders while you cook. More orders, zero extra hands. Stop losing. Start earning.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#foodtruck #tacos #streetfood #foodbusiness #taqueria #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlineordering #orderonline #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+#foodtruck #tacos #streetfood #foodbusiness #taqueria #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlineordering #orderonline #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#foodtruck #tacos #streetfood #foodbusiness #taqueria #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlineordering #orderonline #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo

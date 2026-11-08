@@ -1,0 +1,265 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: #121715;
+    }
+    .clip {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .cam {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      transform-origin: 50% 50%;
+    }
+    .plate {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    /* --- website reveal: a drawn, cel-shaded screen inside the anime world --- */
+    #p2-scrim {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(12, 20, 16, 0.78) 0%, rgba(12, 20, 16, 0.62) 60%, rgba(12, 20, 16, 0.82) 100%);
+      opacity: 0;
+    }
+    #p2-browser {
+      position: absolute;
+      left: 90px;
+      top: 338px;
+      width: 900px;
+      height: 762px;
+      background: #f3eee2;
+      border: 12px solid #121715;
+      border-radius: 20px;
+      box-shadow: 18px 22px 0 rgba(10, 18, 14, 0.55);
+      overflow: hidden;
+      transform-origin: 50% 50%;
+    }
+    .browser-bar {
+      height: 54px;
+      background: #121715;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 0 20px;
+    }
+    .dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #f0c987;
+    }
+    .dot:nth-child(2) {
+      background: #f3eee2;
+    }
+    .dot:nth-child(3) {
+      background: #4c8a67;
+    }
+    .url {
+      margin-left: 14px;
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 30px;
+      color: #f3eee2;
+      background: #1f4736;
+      border-radius: 8px;
+      padding: 5px 18px;
+    }
+    .site {
+      padding: 22px 28px 24px;
+      height: 686px;
+    }
+    .site-head {
+      height: 92px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 4px solid #1f4736;
+    }
+    .logo {
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 42px;
+      line-height: 0.92;
+      letter-spacing: -0.03em;
+      color: #1f4736;
+    }
+    .nav {
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 30px;
+      letter-spacing: 0.04em;
+      color: #121715;
+    }
+    .hero {
+      position: relative;
+      height: 224px;
+      margin: 20px 0 18px;
+      overflow: hidden;
+      border: 4px solid #121715;
+      border-radius: 10px;
+      background: #e7ddc6;
+    }
+    .hero img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 88%;
+    }
+    .hero-text {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      padding: 14px 22px 26px;
+      background: linear-gradient(180deg, rgba(243, 238, 226, 0.94) 0%, rgba(243, 238, 226, 0.72) 62%, rgba(243, 238, 226, 0) 100%);
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 46px;
+      line-height: 1.08;
+      color: #121715;
+      text-shadow: 0 2px 0 rgba(243, 238, 226, 0.8);
+    }
+    .hero-text small {
+      font-size: 28px;
+      font-weight: 700;
+      color: #1f4736;
+    }
+    .menu {
+      border-top: 3px solid rgba(31, 71, 54, 0.35);
+    }
+    .row {
+      height: 74px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 3px solid rgba(31, 71, 54, 0.25);
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 34px;
+      color: #121715;
+    }
+    .row .price {
+      font-weight: 900;
+      color: #1f4736;
+    }
+    #p2-order {
+      margin-top: 20px;
+      height: 88px;
+      border: 4px solid #123c28;
+      border-radius: 14px;
+      background: #1f4736;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 36px;
+      letter-spacing: 0.01em;
+      color: #f3eee2;
+      box-shadow: 0 8px 0 #123c28;
+    }
+    #p2-order svg {
+      width: 44px;
+      height: 44px;
+      flex: none;
+    }
+  </style>
+
+  <div id="root" data-composition-id="pitch" data-width="1080" data-height="1920" data-duration="5">
+    <!-- 3.00-4.25 slides into the table, opens the laptop -->
+    <div id="p2-table" class="clip" data-start="0" data-duration="1.25" data-track-index="1">
+      <div id="p2-table-cam" class="cam">
+        <img class="plate" src="assets/plates/r15a-sneakers.jpg" alt="Reda opens his laptop at a wooden cafe table" />
+      </div>
+    </div>
+
+    <!-- 4.25-5.45 over-the-shoulder: owner, arms crossed -->
+    <div id="p2-owner" class="clip" data-start="1.25" data-duration="1.2" data-track-index="2">
+      <div id="p2-owner-cam" class="cam">
+        <img class="plate" src="assets/plates/r15b-reviews.jpg" alt="The skeptical owner stands with his arms crossed" />
+      </div>
+    </div>
+
+    <!-- 5.45-6.65 the laptop is turned: a clean, modern cafe website -->
+    <div id="p2-site" class="clip" data-start="2.45" data-duration="1.2" data-track-index="3">
+      <div id="p2-bg-cam" class="cam">
+        <img class="plate" src="assets/plates/13-website-bg.jpg" alt="The laptop on the cafe table behind the website" />
+      </div>
+      <div id="p2-scrim"></div>
+      <div id="p2-browser">
+        <div class="browser-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="url" data-layout-ignore>kickzone.nyc</span></div>
+        <div class="site">
+          <div class="site-head">
+            <div class="logo">KICKZONE<br />SNEAKERS</div>
+            <div class="nav">SHOP&nbsp;&nbsp;·&nbsp;&nbsp;HYPE</div>
+          </div>
+          <div class="hero">
+            <img src="assets/plates/r15a-sneakers-hero.jpg" alt="Anime-painted croissant, cake and latte" />
+            <div class="hero-text" data-layout-ignore>Heat on your feet.<br /><small>Real pairs. Real reviews.</small></div>
+          </div>
+          <div class="menu">
+            <div class="row"><span data-layout-ignore>Runner X</span><span class="price" data-layout-ignore>$120.00</span></div>
+            <div class="row"><span data-layout-ignore>Court Low</span><span class="price" data-layout-ignore>$95.00</span></div>
+            <div class="row"><span data-layout-ignore>Street High</span><span class="price" data-layout-ignore>$140.00</span></div>
+          </div>
+          <div id="p2-order">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#f3eee2" d="M12 2a10 10 0 0 0-8.7 15l-1.2 4.4 4.5-1.2A10 10 0 1 0 12 2Zm0 2a8 8 0 0 1 4.2 14.8l-.5-.3-2.7.7.7-2.6-.3-.5A8 8 0 1 1 12 4Zm-2.4 4.2c-.2 0-.4.1-.5.3l-.6 1.4c-.2.4-.6.6-1 .7l-1 .2c-.3.1-.4.3-.3.6l.7 2.9c.1.3.3.4.6.3l1-.3c.4-.1.8-.1 1.2.1l1.2.7c.3.2.6.1.8-.2l.8-1.2c.2-.3.2-.7 0-1l-.7-1.1c-.2-.3-.3-.7-.2-1.1l.2-1c.1-.3 0-.5-.3-.6l-1.7-.7c-.4-.1-.7-.2-1.2-.2Z" /></svg>
+            <span data-layout-ignore>SHOP NOW</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6.65-7.45 push-in on the owner's realization -->
+    <div id="p2-realize" class="clip" data-start="3.65" data-duration="0.8" data-track-index="4">
+      <div id="p2-realize-cam" class="cam">
+        <img class="plate" src="assets/plates/05-realize.jpg" alt="The owner realizes it is his own cafe" />
+      </div>
+    </div>
+
+    <!-- 7.45-8.00 Reda leans back, small confident smile -->
+    <div id="p2-smile" class="clip" data-start="4.45" data-duration="0.55" data-track-index="5">
+      <div id="p2-smile-cam" class="cam">
+        <img class="plate" src="assets/plates/06-smile.jpg" alt="Reda leans back with a small confident smile" />
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tl = gsap.timeline({ paused: true });
+
+    tl.fromTo("#p2-table-cam", { scale: 1.03, x: 18, y: 10 }, { scale: 1.13, x: -10, y: -8, duration: 1.25, ease: "power2.out" }, 0);
+    tl.fromTo("#p2-owner-cam", { scale: 1.06, x: -16, y: 0 }, { scale: 1.1, x: 12, y: -6, duration: 1.2, ease: "power1.inOut" }, 1.25);
+
+    // The website is a match cut on the turned laptop: it arrives large and settles.
+    tl.fromTo("#p2-bg-cam", { scale: 1.22, x: 0 }, { scale: 1.31, x: -18, duration: 1.2, ease: "power1.out" }, 2.45);
+    tl.fromTo("#p2-scrim", { opacity: 0 }, { opacity: 1, duration: 0.2, ease: "power2.out" }, 2.45);
+    tl.fromTo("#p2-browser", { opacity: 0, scale: 0.88, y: 44, rotation: -2.4 }, { opacity: 1, scale: 1, y: 0, rotation: -1.2, duration: 0.26, ease: "power3.out" }, 2.45);
+    tl.fromTo("#p2-browser .row", { opacity: 0, x: 26 }, { opacity: 1, x: 0, duration: 0.14, stagger: 0.05, ease: "power2.out" }, 2.52);
+    tl.fromTo("#p2-order", { opacity: 0, scale: 0.9 }, { opacity: 1, scale: 1, duration: 0.16, ease: "back.out(2)" }, 2.68);
+    tl.to("#p2-browser", { opacity: 0, scale: 1.04, duration: 0.14, ease: "power2.in" }, 3.5);
+    tl.to("#p2-scrim", { opacity: 0, duration: 0.14, ease: "power2.in" }, 3.5);
+
+    tl.fromTo("#p2-realize-cam", { scale: 1.0, x: 0 }, { scale: 1.14, x: -8, duration: 0.8, ease: "power3.out" }, 3.65);
+    tl.fromTo("#p2-smile-cam", { scale: 1.1, y: -8 }, { scale: 1.03, y: 4, duration: 0.55, ease: "power2.out" }, 4.45);
+
+    window.__timelines["pitch"] = tl;
+  </script>
+</template>

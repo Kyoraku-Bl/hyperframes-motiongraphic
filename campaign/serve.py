@@ -34,6 +34,11 @@ ITEMS = [
     ("reel-11-story-views", "200 Views, 3 Orders", "Views without checkout — stories don't take orders", "Sugar Rush Bakery"),
     ("reel-12-no-trust", "No Website, No Trust", "Trust gap — no website reads as risky", "Glow by Sara"),
     ("reel-13-link-jungle", "The Link Jungle", "Link chaos — five bio links, zero clarity", "Retro Rack Thrift"),
+    ("reel-14-rival-thanks", "Your Rival Thanks You", "Competitor theft — no site sends customers to your rival", "FixPoint Phone Repair"),
+    ("reel-15-buried-proof", "Buried Proof", "Buried proof — your reviews are hidden in screenshots", "KickZone Sneakers"),
+    ("reel-16-show-prices", "Show Your Prices", "Hidden prices read as expensive — silence loses chairs", "Velvet Hair Studio"),
+    ("reel-17-one-street", "Famous on One Street", "One street vs the whole city — reach limits growth", "AquaPro Plumbing"),
+    ("reel-18-losing-expensive", "Losing Is Expensive", "Objection crusher — losing customers costs more than a site", "El Fuego Tacos"),
 ]
 
 
@@ -70,7 +75,7 @@ CARDS = "".join(
 )
 
 INDEX = """<!doctype html><html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1"><title>13 Reels — preview &amp; download</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>18 Reels — preview &amp; download</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;background:#0c1310;color:#F3EEE2;font:16px/1.5 Inter,system-ui,sans-serif}
@@ -92,7 +97,7 @@ a.ghost{background:transparent;color:#b9c2b7}
 .zips h2{margin:0 0 10px;font-size:18px}
 small{display:block;margin-top:24px;color:#8d9a8f}
 </style></head><body><main>
-<h1>THIRTEEN REELS · THIRTEEN ANGLES</h1>
+<h1>EIGHTEEN REELS · EIGHTEEN ANGLES</h1>
 <p class="lead">1080 × 1920 · 30 fps · 18 s · H.264 + AAC · no music baked in. Press play to preview, or download.</p>
 <p class="note"><b>All downloads go to GitHub's CDN</b> — the sandbox preview proxy needs a traffic-access token, so its own URLs fail in a normal browser tab. Right-click an MP4 → “Save video as”, or take the ZIP for a one-click download.</p>
 """ + CARDS + """
@@ -119,7 +124,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"13-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"18-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
