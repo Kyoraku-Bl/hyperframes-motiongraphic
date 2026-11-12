@@ -32,7 +32,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 16 · Show Your Prices | [reel-16-show-prices-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-16-show-prices/reel-16-show-prices-delivery.zip) | 13.4 MB |
 | 17 · Famous on One Street | [reel-17-one-street-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-17-one-street/reel-17-one-street-delivery.zip) | 14.5 MB |
 | 18 · Losing Is Expensive | [reel-18-losing-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel-18-losing-expensive-delivery.zip) | 14.7 MB |
-
+| 19 · Same Questions? | [reel-19-same-questions-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/reel-19-same-questions-delivery.zip) | 15.0 MB |
+| 20 · Look Expensive | [reel-20-look-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/reel-20-look-expensive-delivery.zip) | 13.7 MB |
+| 21 · Double-Booked | [reel-21-double-booked-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/reel-21-double-booked-delivery.zip) | 15.5 MB |
+| 22 · Lost Tourists | [reel-22-lost-tourists-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel-22-lost-tourists-delivery.zip) | 15.8 MB |
+| 23 · Nails Deserve Fame | [reel-23-nails-fame-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel-23-nails-fame-delivery.zip) | 14.1 MB |
 ## All files
 
 ### 01 · The Midnight Search
@@ -212,3 +216,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-18-losing-expensive/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/caption.txt)
 - **Hashtags:** [reel-18-losing-expensive/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/delivery/hashtags.txt)
 - **Full ZIP:** [reel-18-losing-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-18-losing-expensive/reel-18-losing-expensive-delivery.zip)
+
+### 19 · Same Questions?
+*InkLine Tattoo — FAQ automation — the site answers the same 10 questions*
+
+- **Video:** [reel-19-same-questions.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/reel.mp4) — 14.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/reel.mp4)
+- **Cover:** [reel-19-same-questions-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/delivery/cover.jpg) — 713 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/delivery/cover.jpg)
+- **Caption:** [reel-19-same-questions/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/delivery/caption.txt)
+- **Hashtags:** [reel-19-same-questions/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/delivery/hashtags.txt)
+- **Full ZIP:** [reel-19-same-questions-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-19-same-questions/reel-19-same-questions-delivery.zip)
+
+### 20 · Look Expensive
+*Lens & Light Photography — Perception pricing — a sharp site lets you charge more*
+
+- **Video:** [reel-20-look-expensive.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/reel.mp4) — 13.2 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/reel.mp4)
+- **Cover:** [reel-20-look-expensive-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/delivery/cover.jpg) — 541 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/delivery/cover.jpg)
+- **Caption:** [reel-20-look-expensive/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/delivery/caption.txt)
+- **Hashtags:** [reel-20-look-expensive/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/delivery/hashtags.txt)
+- **Full ZIP:** [reel-20-look-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/reel-20-look-expensive-delivery.zip)
+
+### 21 · Double-Booked
+*ShineRide Detailing — Booking chaos — paper notebook double-books, site never does*
+
+- **Video:** [reel-21-double-booked.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/reel.mp4) — 14.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/reel.mp4)
+- **Cover:** [reel-21-double-booked-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/delivery/cover.jpg) — 779 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/delivery/cover.jpg)
+- **Caption:** [reel-21-double-booked/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/delivery/caption.txt)
+- **Hashtags:** [reel-21-double-booked/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/delivery/hashtags.txt)
+- **Full ZIP:** [reel-21-double-booked-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/reel-21-double-booked-delivery.zip)
+
+### 22 · Lost Tourists
+*Atlas Surf Rentals — Invisible to tourists — no site + no pin = no rentals*
+
+- **Video:** [reel-22-lost-tourists.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel.mp4) — 15.0 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel.mp4)
+- **Cover:** [reel-22-lost-tourists-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/delivery/cover.jpg) — 877 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/delivery/cover.jpg)
+- **Caption:** [reel-22-lost-tourists/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/delivery/caption.txt)
+- **Hashtags:** [reel-22-lost-tourists/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/delivery/hashtags.txt)
+- **Full ZIP:** [reel-22-lost-tourists-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel-22-lost-tourists-delivery.zip)
+
+### 23 · Nails Deserve Fame
+*Lacquer Nail Studio — Hidden portfolio — your art hides in your camera roll*
+
+- **Video:** [reel-23-nails-fame.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel.mp4) — 13.4 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel.mp4)
+- **Cover:** [reel-23-nails-fame-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/cover.jpg) — 708 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/cover.jpg)
+- **Caption:** [reel-23-nails-fame/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/caption.txt)
+- **Hashtags:** [reel-23-nails-fame/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/hashtags.txt)
+- **Full ZIP:** [reel-23-nails-fame-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel-23-nails-fame-delivery.zip)

@@ -39,6 +39,11 @@ ITEMS = [
     ("reel-16-show-prices", "Show Your Prices", "Hidden prices read as expensive — silence loses chairs", "Velvet Hair Studio"),
     ("reel-17-one-street", "Famous on One Street", "One street vs the whole city — reach limits growth", "AquaPro Plumbing"),
     ("reel-18-losing-expensive", "Losing Is Expensive", "Objection crusher — losing customers costs more than a site", "El Fuego Tacos"),
+    ("reel-19-same-questions", "Same Questions?", "FAQ automation — the site answers the same 10 questions", "InkLine Tattoo"),
+    ("reel-20-look-expensive", "Look Expensive", "Perception pricing — a sharp site lets you charge more", "Lens & Light Photography"),
+    ("reel-21-double-booked", "Double-Booked", "Booking chaos — paper notebook double-books, site never does", "ShineRide Detailing"),
+    ("reel-22-lost-tourists", "Lost Tourists", "Invisible to tourists — no site + no pin = no rentals", "Atlas Surf Rentals"),
+    ("reel-23-nails-fame", "Nails Deserve Fame", "Hidden portfolio — your art hides in your camera roll", "Lacquer Nail Studio"),
 ]
 
 
@@ -124,7 +129,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"18-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"23-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
