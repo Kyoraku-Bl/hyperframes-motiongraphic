@@ -14,8 +14,8 @@ npx hyperframes check . --json   → ok true · browserSkipped false
     craft: 0 errors, 2 warnings (see below)
 npx hyperframes check . --snapshots --json → ok true · 5 frames (1/5/9/13/17 s)
 npx hyperframes render . -o reel.raw.mp4 -f 30 -q looks --workers 2 → exit 0
-    46.3 MB · 18.0 s · rendered in 2m 5.2s
-ffmpeg transcode (CRF 21, faststart) → 14757865 B · 18.000000 s
+    46.3 MB · 18.0 s · rendered in 2m 8.9s
+ffmpeg transcode (CRF 21, faststart) → 14777938 B · 18.000000 s
 audio QA → -16.73 LUFS integrated · -1.70 dBTP true peak · 0 clips
 ```
 
@@ -33,8 +33,8 @@ This batch adds the PUNCH FX package (hook text shake + highlight re-punch,
 flash frames on the hook slam / angle entrance / CTA entrance / endcard slam,
 a speed-line rush into the CTA, an endblock power-slam, caption highlight
 zoom-punches, whip-hit SFX under the hook + CTA) and the attached duo:
-Alex (salesman) pops with the shout, Victoria (happy client) pops on the
-thanks beat, and both ride the CTA + cover. Duo portraits are shared
+sitely_studioo (salesman) pops with the shout, Victoria (happy client) pops on
+the thanks beat, and both ride the CTA + cover. Duo portraits are shared
 ungraded so the faces stay identical in every Reel.
 
 ## Visual QA
@@ -46,7 +46,7 @@ as a contact sheet, plus the 5 `check --snapshots` frames:
 - 16 word-by-word caption groups, always visible and inside the
   lower-middle safe band; sound-off readable throughout.
 - ShineRide Detailing detailing slot menu with package prices + BOOK A SLOT; phone mini-site; lock screen + notification toast with the story-specific time (1:05).
-- Selfie CTA with the Alex + Victoria duo, "Your website. Done for you." end card,
+- Selfie CTA with the sitely_studioo + Victoria duo, "Your website. Done for you." end card,
   loop-back to the exact opening plate + hook line.
 - **Loop:** frame 0 vs frame 539 mean absolute pixel diff **9.97/255**.
 - Snapshot capture again blanked some 9 s phone frames this run (transient
@@ -61,8 +61,8 @@ immediately.
 
 `tools/make_delivery.py` → `delivery/` + `reel-21-double-booked-delivery.zip`.
 Cover is drawn from the clean establish plate with the shout headline, kicker,
-CTA pill, handle and the Alex + Victoria faces inside safe zones. No music is
+CTA pill, handle and the sitely_studioo + Victoria faces inside safe zones. No music is
 baked in — add a low-volume trending track in the Instagram editor and set the
 cover JPG as the Reel cover.
 
-SHA-256 (`reel.mp4`): `0c879e27239700eb33cf528745d9c803442415f125e5eb6dd4f6a8d57e40cfbb`
+SHA-256 (`reel.mp4`): `8a120569705dedfbbf55faaa7ef5ba852bd2e3747560356f1ab3bf726b0bb892`

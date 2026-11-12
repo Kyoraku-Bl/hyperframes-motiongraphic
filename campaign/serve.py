@@ -43,7 +43,7 @@ ITEMS = [
     ("reel-20-look-expensive", "Look Expensive", "Perception pricing — a sharp site lets you charge more", "Lens & Light Photography"),
     ("reel-21-double-booked", "Double-Booked", "Booking chaos — paper notebook double-books, site never does", "ShineRide Detailing"),
     ("reel-22-lost-tourists", "Lost Tourists", "Invisible to tourists — no site + no pin = no rentals", "Atlas Surf Rentals"),
-    ("reel-23-nails-fame", "Nails Deserve Fame", "Hidden portfolio — your art hides in your camera roll", "Lacquer Nail Studio"),
+    ("reel-23-brand-fakes", "Fakes Sell Your Brand", "Brand hijack — clone pages steal sales an official site would keep", "GlossLab Cosmetics"),
 ]
 
 

@@ -132,7 +132,7 @@ def build_cover(cfg: dict, project: Path, font_path: Path) -> Image.Image:
 
     letterspaced(d, (W / 2, 1284), c["handle"], f_handle, (*CREAM, 225), tracking=4)
 
-    # Attached duo: Alex + Victoria faces below the handle.
+    # Attached duo: sitely_studioo + Victoria faces below the handle.
     try:
         for _i, _n in enumerate(("assets/plates/duo-sam.jpg", "assets/plates/duo-client.jpg")):
             _face = Image.open(project / _n).convert("RGB").resize((168, 168), Image.Resampling.LANCZOS)

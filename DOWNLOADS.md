@@ -36,7 +36,7 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 20 · Look Expensive | [reel-20-look-expensive-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-20-look-expensive/reel-20-look-expensive-delivery.zip) | 13.7 MB |
 | 21 · Double-Booked | [reel-21-double-booked-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/reel-21-double-booked-delivery.zip) | 15.5 MB |
 | 22 · Lost Tourists | [reel-22-lost-tourists-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel-22-lost-tourists-delivery.zip) | 15.8 MB |
-| 23 · Nails Deserve Fame | [reel-23-nails-fame-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel-23-nails-fame-delivery.zip) | 14.1 MB |
+| 23 · Fakes Sell Your Brand | [reel-23-brand-fakes-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/reel-23-brand-fakes-delivery.zip) | 14.9 MB |
 ## All files
 
 ### 01 · The Midnight Search
@@ -253,11 +253,12 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Hashtags:** [reel-22-lost-tourists/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/delivery/hashtags.txt)
 - **Full ZIP:** [reel-22-lost-tourists-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel-22-lost-tourists-delivery.zip)
 
-### 23 · Nails Deserve Fame
-*Lacquer Nail Studio — Hidden portfolio — your art hides in your camera roll*
 
-- **Video:** [reel-23-nails-fame.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel.mp4) — 13.4 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel.mp4)
-- **Cover:** [reel-23-nails-fame-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/cover.jpg) — 708 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/cover.jpg)
-- **Caption:** [reel-23-nails-fame/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/caption.txt)
-- **Hashtags:** [reel-23-nails-fame/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/delivery/hashtags.txt)
-- **Full ZIP:** [reel-23-nails-fame-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-nails-fame/reel-23-nails-fame-delivery.zip)
+### 23 · Fakes Sell Your Brand
+*GlossLab Cosmetics — Brand hijack — clone pages steal sales an official site would keep*
+
+- **Video:** [reel-23-brand-fakes.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/reel.mp4) — 14.2 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/reel.mp4)
+- **Cover:** [reel-23-brand-fakes-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/delivery/cover.jpg) — 694 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/delivery/cover.jpg)
+- **Caption:** [reel-23-brand-fakes/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/delivery/caption.txt)
+- **Hashtags:** [reel-23-brand-fakes/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/delivery/hashtags.txt)
+- **Full ZIP:** [reel-23-brand-fakes-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/reel-23-brand-fakes-delivery.zip)

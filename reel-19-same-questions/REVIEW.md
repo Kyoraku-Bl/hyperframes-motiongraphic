@@ -14,8 +14,8 @@ npx hyperframes check . --json   → ok true · browserSkipped false
     craft: 0 errors, 2 warnings (see below)
 npx hyperframes check . --snapshots --json → ok true · 5 frames (1/5/9/13/17 s)
 npx hyperframes render . -o reel.raw.mp4 -f 30 -q looks --workers 2 → exit 0
-    48.1 MB · 18.0 s · rendered in 2m 7.1s
-ffmpeg transcode (CRF 21, faststart) → 14347017 B · 18.000000 s
+    48.1 MB · 18.0 s · rendered in 2m 5.4s
+ffmpeg transcode (CRF 21, faststart) → 14359228 B · 18.000000 s
 audio QA → -16.89 LUFS integrated · -1.80 dBTP true peak · 0 clips
 ```
 
@@ -33,8 +33,8 @@ This batch adds the PUNCH FX package (hook text shake + highlight re-punch,
 flash frames on the hook slam / angle entrance / CTA entrance / endcard slam,
 a speed-line rush into the CTA, an endblock power-slam, caption highlight
 zoom-punches, whip-hit SFX under the hook + CTA) and the attached duo:
-Alex (salesman) pops with the shout, Victoria (happy client) pops on the
-thanks beat, and both ride the CTA + cover. Duo portraits are shared
+sitely_studioo (salesman) pops with the shout, Victoria (happy client) pops on
+the thanks beat, and both ride the CTA + cover. Duo portraits are shared
 ungraded so the faces stay identical in every Reel.
 
 ## Visual QA
@@ -46,7 +46,7 @@ as a contact sheet, plus the 5 `check --snapshots` frames:
 - 17 word-by-word caption groups, always visible and inside the
   lower-middle safe band; sound-off readable throughout.
 - InkLine Tattoo tattoo flash wall with chair prices + BOOK A CHAIR; phone mini-site; lock screen + notification toast with the story-specific time (4:44).
-- Selfie CTA with the Alex + Victoria duo, "Your website. Done for you." end card,
+- Selfie CTA with the sitely_studioo + Victoria duo, "Your website. Done for you." end card,
   loop-back to the exact opening plate + hook line.
 - **Loop:** frame 0 vs frame 539 mean absolute pixel diff **8.95/255**.
 - Snapshot capture again blanked some 9 s phone frames this run (transient
@@ -61,8 +61,8 @@ immediately.
 
 `tools/make_delivery.py` → `delivery/` + `reel-19-same-questions-delivery.zip`.
 Cover is drawn from the clean establish plate with the shout headline, kicker,
-CTA pill, handle and the Alex + Victoria faces inside safe zones. No music is
+CTA pill, handle and the sitely_studioo + Victoria faces inside safe zones. No music is
 baked in — add a low-volume trending track in the Instagram editor and set the
 cover JPG as the Reel cover.
 
-SHA-256 (`reel.mp4`): `2de0b8dcd6515015ec0359fd79aeca905cf510dd2c02aac18b23a94cabf87abd`
+SHA-256 (`reel.mp4`): `ce116b9033ebb81031ea97410ed8b02a5618235c176cc554ab2ea8b07537cce6`
