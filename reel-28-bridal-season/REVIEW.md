@@ -14,8 +14,8 @@ npx hyperframes check . --json   → ok true · browserSkipped false
     craft: 0 errors, 2 warnings (see below)
 npx hyperframes check . --snapshots --json → ok true · 5 frames (1/5/9/13/17 s)
 npx hyperframes render . -o reel.raw.mp4 -f 30 -q looks --workers 2 → exit 0
-    43.1 MB · 18.0 s · rendered in 2m 0.2s
-ffmpeg transcode (CRF 21, faststart) → 13770513 B · 18.000000 s
+    42.5 MB · 18.0 s · rendered in 2m 8.1s
+ffmpeg transcode (CRF 21, faststart) → 13775806 B · 18.000000 s
 audio QA → -16.99 LUFS integrated · -1.78 dBTP true peak · 0 clips
 ```
 
@@ -48,7 +48,8 @@ as a contact sheet, plus the 5 `check --snapshots` frames:
 - GlowUp Makeup Artistry bridal look menu with package prices + BOOK TRIAL; phone mini-site; lock screen + notification toast with the story-specific time (2:22).
 - Selfie CTA with the sitely_studioo + Victoria duo, "Your website. Done for you." end card,
   loop-back to the exact opening plate + hook line.
-- **Loop:** frame 0 vs frame 539 mean absolute pixel diff **10.34/255**.
+- **Loop:** frame 0 vs frame 539 mean absolute pixel diff **10.39/255**.
+- **Faceless cast (2026-11-12):** every character eye removed — story plates, shared scenes, duo portraits and heroes; all 13 plates byte-verified against the faceless sources and the rendered frames + cover inspected.
 - Snapshot capture again blanked some 9 s phone frames this run (transient
   capture race); the rendered MP4s all show the full site + caption.
 
@@ -65,4 +66,4 @@ CTA pill, handle and the sitely_studioo + Victoria faces inside safe zones. No m
 baked in — add a low-volume trending track in the Instagram editor and set the
 cover JPG as the Reel cover.
 
-SHA-256 (`reel.mp4`): `2b4d7b589b3d758200bef11bf6d21f06a16af264b93cd795f157ddcd8cb9edd1`
+SHA-256 (`reel.mp4`): `ab04a7bc669747684e38cb42338ac1909e914c79f61393583a1d8088cd6aaf71`

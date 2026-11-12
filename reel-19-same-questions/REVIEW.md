@@ -14,8 +14,8 @@ npx hyperframes check . --json   → ok true · browserSkipped false
     craft: 0 errors, 2 warnings (see below)
 npx hyperframes check . --snapshots --json → ok true · 5 frames (1/5/9/13/17 s)
 npx hyperframes render . -o reel.raw.mp4 -f 30 -q looks --workers 2 → exit 0
-    48.1 MB · 18.0 s · rendered in 2m 5.4s
-ffmpeg transcode (CRF 21, faststart) → 14359228 B · 18.000000 s
+    47.2 MB · 18.0 s · rendered in 2m 10.6s
+ffmpeg transcode (CRF 21, faststart) → 14243826 B · 18.000000 s
 audio QA → -16.89 LUFS integrated · -1.80 dBTP true peak · 0 clips
 ```
 
@@ -49,6 +49,7 @@ as a contact sheet, plus the 5 `check --snapshots` frames:
 - Selfie CTA with the sitely_studioo + Victoria duo, "Your website. Done for you." end card,
   loop-back to the exact opening plate + hook line.
 - **Loop:** frame 0 vs frame 539 mean absolute pixel diff **8.95/255**.
+- **Faceless cast (2026-11-12):** every character eye removed — story plates, shared scenes, duo portraits and heroes; all 13 plates byte-verified against the faceless sources and the rendered frames + cover inspected.
 - Snapshot capture again blanked some 9 s phone frames this run (transient
   capture race); the rendered MP4s all show the full site + caption.
 
@@ -65,4 +66,4 @@ CTA pill, handle and the sitely_studioo + Victoria faces inside safe zones. No m
 baked in — add a low-volume trending track in the Instagram editor and set the
 cover JPG as the Reel cover.
 
-SHA-256 (`reel.mp4`): `ce116b9033ebb81031ea97410ed8b02a5618235c176cc554ab2ea8b07537cce6`
+SHA-256 (`reel.mp4`): `99e4ece71042f511952f6dd6f4b334d224dadc1a3f9ab4a78ab82aeb117f27ff`
