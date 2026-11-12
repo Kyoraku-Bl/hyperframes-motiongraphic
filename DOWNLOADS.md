@@ -37,7 +37,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 21 · Double-Booked | [reel-21-double-booked-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-21-double-booked/reel-21-double-booked-delivery.zip) | 15.5 MB |
 | 22 · Lost Tourists | [reel-22-lost-tourists-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-22-lost-tourists/reel-22-lost-tourists-delivery.zip) | 15.8 MB |
 | 23 · Fakes Sell Your Brand | [reel-23-brand-fakes-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/reel-23-brand-fakes-delivery.zip) | 14.9 MB |
-## All files
+| 25 · Card Declined... You | [reel-24-card-only-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/reel-24-card-only-delivery.zip) | 15.0 MB |
+| 26 · 2023 Prices? | [reel-25-old-prices-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel-25-old-prices-delivery.zip) | 15.0 MB |
+| 27 · Ghosted After the Price | [reel-26-ghosted-price-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel-26-ghosted-price-delivery.zip) | 14.0 MB |
+| 28 · Rainy-Day Money | [reel-27-rainy-money-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel-27-rainy-money-delivery.zip) | 14.0 MB |
+| 29 · Booked Before Summer | [reel-28-bridal-season-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel-28-bridal-season-delivery.zip) | 14.4 MB |## All files
 
 ### 01 · The Midnight Search
 *Sharp & Sons Barbershop — Loss aversion — the sale you never knew you lost*
@@ -262,3 +266,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-23-brand-fakes/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/delivery/caption.txt)
 - **Hashtags:** [reel-23-brand-fakes/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/delivery/hashtags.txt)
 - **Full ZIP:** [reel-23-brand-fakes-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-23-brand-fakes/reel-23-brand-fakes-delivery.zip)
+
+### 25 · Card Declined... You
+*FreshSqueeze Juice Bar — Payment friction — cash-only signs send card holders next door*
+
+- **Video:** [reel-24-card-only.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/reel.mp4) — 14.4 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/reel.mp4)
+- **Cover:** [reel-24-card-only-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/cover.jpg) — 665 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/cover.jpg)
+- **Caption:** [reel-24-card-only/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/caption.txt)
+- **Hashtags:** [reel-24-card-only/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/hashtags.txt)
+- **Full ZIP:** [reel-24-card-only-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/reel-24-card-only-delivery.zip)
+
+### 26 · 2023 Prices?
+*Shawarma Palace — Stale prices — your old Facebook menu calls you a liar*
+
+- **Video:** [reel-25-old-prices.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel.mp4) — 14.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel.mp4)
+- **Cover:** [reel-25-old-prices-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/cover.jpg) — 703 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/cover.jpg)
+- **Caption:** [reel-25-old-prices/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/caption.txt)
+- **Hashtags:** [reel-25-old-prices/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/hashtags.txt)
+- **Full ZIP:** [reel-25-old-prices-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel-25-old-prices-delivery.zip)
+
+### 27 · Ghosted After the Price
+*Casa Furniture — DM ghosting — 'seen' without a buy button sells nothing*
+
+- **Video:** [reel-26-ghosted-price.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel.mp4) — 13.4 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel.mp4)
+- **Cover:** [reel-26-ghosted-price-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/cover.jpg) — 598 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/cover.jpg)
+- **Caption:** [reel-26-ghosted-price/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/caption.txt)
+- **Hashtags:** [reel-26-ghosted-price/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/hashtags.txt)
+- **Full ZIP:** [reel-26-ghosted-price-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel-26-ghosted-price-delivery.zip)
+
+### 28 · Rainy-Day Money
+*Chapter One Books — Weather-proof income — rain empties shops, not websites*
+
+- **Video:** [reel-27-rainy-money.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel.mp4) — 13.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel.mp4)
+- **Cover:** [reel-27-rainy-money-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/cover.jpg) — 663 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/cover.jpg)
+- **Caption:** [reel-27-rainy-money/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/caption.txt)
+- **Hashtags:** [reel-27-rainy-money/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/hashtags.txt)
+- **Full ZIP:** [reel-27-rainy-money-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel-27-rainy-money-delivery.zip)
+
+### 29 · Booked Before Summer
+*GlowUp Makeup Artistry — Seasonal pre-booking — brides book months ahead, on Google*
+
+- **Video:** [reel-28-bridal-season.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel.mp4) — 13.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel.mp4)
+- **Cover:** [reel-28-bridal-season-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/cover.jpg) — 650 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/cover.jpg)
+- **Caption:** [reel-28-bridal-season/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/caption.txt)
+- **Hashtags:** [reel-28-bridal-season/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/hashtags.txt)
+- **Full ZIP:** [reel-28-bridal-season-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel-28-bridal-season-delivery.zip)

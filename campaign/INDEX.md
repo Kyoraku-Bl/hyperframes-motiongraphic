@@ -1,4 +1,4 @@
-# Twenty-Three Reels — twenty-three marketing angles
+# Twenty-Eight Reels — twenty-eight marketing angles
 
 **Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
@@ -625,3 +625,128 @@ Save this ♻️  ·  Follow @sitely_studioo for more
 **Hashtags:**
 
 #brandowner #beautybrand #cosmeticsbrand #ecommercebrand #brandbuilding #smallbusiness #onlinebusiness #websitedesign #webdesigner #officialstore #shopofficial #ecommerce #sellonline #digitalmarketing #businessgrowth #salesgrowth #freemockup #stopfakes #anime #sitelystudioo
+
+## 25 · Card Declined... You
+- Business: FreshSqueeze Juice Bar
+- Angle: Payment friction — cash-only signs send card holders next door
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-24-card-only/reel-24-card-only-delivery.zip)
+
+**Caption:**
+
+No card? No sale?! 🧃
+
+A thirsty customer stands at your counter. Wallet full of CARDS. Your sign says 'cash only'. She walks to the juice bar next door.
+
+Take cards online and in store. Every craving pays. Zero walkaways.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#juicebar #freshjuice #healthyfood #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlineordering #orderonline #digitalpayment #cashless #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#juicebar #freshjuice #healthyfood #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlineordering #orderonline #digitalpayment #cashless #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 26 · 2023 Prices?
+- Business: Shawarma Palace
+- Angle: Stale prices — your old Facebook menu calls you a liar
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel-25-old-prices-delivery.zip)
+
+**Caption:**
+
+Yo! 2023 priiices?! 🌯
+
+Your Facebook menu says $5. Your counter says $8. The customer feels tricked before the first bite — and your reviews pay for it.
+
+A live website shows today's real prices. No surprises. Trust grows, lines grow.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#shawarma #streetfood #foodbusiness #restaurant #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #menudesign #onlineordering #orderonline #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#shawarma #streetfood #foodbusiness #restaurant #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #menudesign #onlineordering #orderonline #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 27 · Ghosted After the Price
+- Business: Casa Furniture
+- Angle: DM ghosting — 'seen' without a buy button sells nothing
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel-26-ghosted-price-delivery.zip)
+
+**Caption:**
+
+Seen? No reply?! 🛋️
+
+You typed the price. They read it. Then... nothing. Every 'seen' without a buy button is a sofa sold by someone else.
+
+A website closes the sale instantly: price, photos, BUY NOW. Before they ghost.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#furniture #furnitureshop #homedecor #interiordesign #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #sellonline #onlinestore #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#furniture #furnitureshop #homedecor #interiordesign #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #sellonline #onlinestore #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 28 · Rainy-Day Money
+- Business: Chapter One Books
+- Angle: Weather-proof income — rain empties shops, not websites
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel-27-rainy-money-delivery.zip)
+
+**Caption:**
+
+Pouring? Still seeelling?! 📚🌧️
+
+Rain empties the street. Your shop sits silent. But readers still buy — from whoever sells online.
+
+A website makes weather irrelevant: orders in the storm, pickups in the sun. Rainy-day money.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#bookshop #bookstore #booklover #reading #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #sellonline #onlinestore #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#bookshop #bookstore #booklover #reading #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #ecommerce #sellonline #onlinestore #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 29 · Booked Before Summer
+- Business: GlowUp Makeup Artistry
+- Angle: Seasonal pre-booking — brides book months ahead, on Google
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel-28-bridal-season-delivery.zip)
+
+**Caption:**
+
+Sold out?! Without you?! 💄
+
+Brides book their makeup artist MONTHS ahead. They Google, they compare, they book — all before you even wake up.
+
+No website means no wedding season. Get found. Get booked. Every June, fully yours.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#makeupartist #bridalmakeup #weddingseason #mua #beautybusiness #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#makeupartist #bridalmakeup #weddingseason #mua #beautybusiness #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo

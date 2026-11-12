@@ -44,6 +44,11 @@ ITEMS = [
     ("reel-21-double-booked", "Double-Booked", "Booking chaos — paper notebook double-books, site never does", "ShineRide Detailing"),
     ("reel-22-lost-tourists", "Lost Tourists", "Invisible to tourists — no site + no pin = no rentals", "Atlas Surf Rentals"),
     ("reel-23-brand-fakes", "Fakes Sell Your Brand", "Brand hijack — clone pages steal sales an official site would keep", "GlossLab Cosmetics"),
+    ("reel-24-card-only", "Card Declined... You", "Payment friction — cash-only signs send card holders next door", "FreshSqueeze Juice Bar"),
+    ("reel-25-old-prices", "2023 Prices?", "Stale prices — your old Facebook menu calls you a liar", "Shawarma Palace"),
+    ("reel-26-ghosted-price", "Ghosted After the Price", "DM ghosting — 'seen' without a buy button sells nothing", "Casa Furniture"),
+    ("reel-27-rainy-money", "Rainy-Day Money", "Weather-proof income — rain empties shops, not websites", "Chapter One Books"),
+    ("reel-28-bridal-season", "Booked Before Summer", "Seasonal pre-booking — brides book months ahead, on Google", "GlowUp Makeup Artistry"),
 ]
 
 
@@ -129,7 +134,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"23-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"28-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
