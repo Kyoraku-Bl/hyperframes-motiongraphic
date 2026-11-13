@@ -49,6 +49,11 @@ ITEMS = [
     ("reel-26-ghosted-price", "Ghosted After the Price", "DM ghosting — 'seen' without a buy button sells nothing", "Casa Furniture"),
     ("reel-27-rainy-money", "Rainy-Day Money", "Weather-proof income — rain empties shops, not websites", "Chapter One Books"),
     ("reel-28-bridal-season", "Booked Before Summer", "Seasonal pre-booking — brides book months ahead, on Google", "GlowUp Makeup Artistry"),
+    ("reel-29-one-star", "One Star?!", "Review defense — one bad review tanks you; real proof fights back", "Dar Zellij"),
+    ("reel-30-pdf-menu", "A PDF in 2026?!", "Menu friction — a broken PDF menu sends diners next door", "Café Verona"),
+    ("reel-31-empty-villa", "Empty 8 Months", "Dead listings — an empty villa needs a stunning site, not a sign", "CasaKeys Realty"),
+    ("reel-32-eid-rush", "Eid Rush", "Seasonal rush — Eid orders go to whoever takes them online", "Couture El Fassi"),
+    ("reel-33-riad-next-door", "Booked Next Door", "Booked elsewhere — tourists stay where they can book online", "Riad Jasmin"),
 ]
 
 
@@ -134,7 +139,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"28-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"33-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))

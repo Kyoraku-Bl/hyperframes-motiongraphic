@@ -1,4 +1,4 @@
-# Twenty-Eight Reels — twenty-eight marketing angles
+# Thirty-Three Reels — thirty-three marketing angles
 
 **Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
@@ -750,3 +750,128 @@ Save this ♻️  ·  Follow @sitely_studioo for more
 **Hashtags:**
 
 #makeupartist #bridalmakeup #weddingseason #mua #beautybusiness #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 30 · One Star?!
+- Business: Dar Zellij
+- Angle: Review defense — one bad review tanks you; real proof fights back
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/reel-29-one-star-delivery.zip)
+
+**Caption:**
+
+One star?! From ONE hater?! ⭐
+
+A stranger eats once, taps one star, and a hundred hungry diners scroll right past your door.
+
+A website stacked with five-star nights, real photos and one-tap booking fights back while you cook.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#restaurantlife #restaurantowner #moroccanfood #onlinereviews #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #reputation #digitalmarketing #businessgrowth #salesgrowth #freemockup #restaurantmarketing #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#restaurantlife #restaurantowner #moroccanfood #onlinereviews #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #onlinebooking #booknow #reputation #digitalmarketing #businessgrowth #salesgrowth #freemockup #restaurantmarketing #anime #motiongraphics #sitelystudioo
+
+## 31 · A PDF in 2026?!
+- Business: Café Verona
+- Angle: Menu friction — a broken PDF menu sends diners next door
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/reel-30-pdf-menu-delivery.zip)
+
+**Caption:**
+
+A PDF menu?! In 2026?! 📄😤
+
+She scans your QR code and gets a blurry PDF from 2019. Pinch, zoom, squint... then she stands up and leaves.
+
+A real menu site loads fast, looks delicious, and takes the order before the waiter arrives.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#coffeeshop #cafeowner #cafelife #menudesign #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #qrcode #onlineordering #customerexperience #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#coffeeshop #cafeowner #cafelife #menudesign #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #qrcode #onlineordering #customerexperience #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 32 · Empty 8 Months
+- Business: CasaKeys Realty
+- Angle: Dead listings — an empty villa needs a stunning site, not a sign
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel-31-empty-villa-delivery.zip)
+
+**Caption:**
+
+Empty?! 8 months empty?! 🏚️
+
+Same faded sign. Same empty rooms. Eight months of rent paid by NOBODY.
+
+A stunning listing site with photos, video and one-tap viewings fills villas while you sleep.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#realestate #realtorlife #villalife #propertylisting #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #bookaviewing #justlisted #realestatemarketing #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#realestate #realtorlife #villalife #propertylisting #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #bookaviewing #justlisted #realestatemarketing #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 33 · Eid Rush
+- Business: Couture El Fassi
+- Angle: Seasonal rush — Eid orders go to whoever takes them online
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel-32-eid-rush-delivery.zip)
+
+**Caption:**
+
+Eid orders?! All going to HIM?! 🌙
+
+Eid is three weeks away and the tailor WITH a website is drowning in caftan orders. Your machine sits silent.
+
+Take measurements and deposits online, and the rush comes to YOU.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#tailor #caftan #moroccanfashion #eidcollection #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #orderonline #eidorders #fashionbusiness #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#tailor #caftan #moroccanfashion #eidcollection #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #orderonline #eidorders #fashionbusiness #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 34 · Booked Next Door
+- Business: Riad Jasmin
+- Angle: Booked elsewhere — tourists stay where they can book online
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel-33-riad-next-door-delivery.zip)
+
+**Caption:**
+
+Tourists?! Staying NEXT door?! 🧳
+
+They landed this morning, searched 'riad Marrakech', and booked the place across the street. Yours never appeared.
+
+A bookable site puts your pool, your suites and your tea one tap away.
+
+Want a free mockup?
+👉 DM me 'FREE'.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#riad #marrakech #moroccotravel #boutiquehotel #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #bookdirect #hotelsite #travelbusiness #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+**Hashtags:**
+
+#riad #marrakech #moroccotravel #boutiquehotel #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #bookdirect #hotelsite #travelbusiness #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo

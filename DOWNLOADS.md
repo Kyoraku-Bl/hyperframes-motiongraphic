@@ -41,7 +41,12 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 26 · 2023 Prices? | [reel-25-old-prices-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-25-old-prices/reel-25-old-prices-delivery.zip) | 14.9 MB |
 | 27 · Ghosted After the Price | [reel-26-ghosted-price-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-26-ghosted-price/reel-26-ghosted-price-delivery.zip) | 13.9 MB |
 | 28 · Rainy-Day Money | [reel-27-rainy-money-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-27-rainy-money/reel-27-rainy-money-delivery.zip) | 13.9 MB |
-| 29 · Booked Before Summer | [reel-28-bridal-season-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel-28-bridal-season-delivery.zip) | 14.4 MB |## All files
+| 29 · Booked Before Summer | [reel-28-bridal-season-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel-28-bridal-season-delivery.zip) | 14.4 MB || 30 · One Star?! | [reel-29-one-star-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/reel-29-one-star-delivery.zip) | 15.0 MB |
+| 31 · A PDF in 2026?! | [reel-30-pdf-menu-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/reel-30-pdf-menu-delivery.zip) | 13.8 MB |
+| 32 · Empty 8 Months | [reel-31-empty-villa-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel-31-empty-villa-delivery.zip) | 14.5 MB |
+| 33 · Eid Rush | [reel-32-eid-rush-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel-32-eid-rush-delivery.zip) | 15.6 MB |
+| 34 · Booked Next Door | [reel-33-riad-next-door-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel-33-riad-next-door-delivery.zip) | 16.3 MB |
+## All files
 
 ### 01 · The Midnight Search
 *Sharp & Sons Barbershop — Loss aversion — the sale you never knew you lost*
@@ -311,3 +316,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-28-bridal-season/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/caption.txt)
 - **Hashtags:** [reel-28-bridal-season/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/delivery/hashtags.txt)
 - **Full ZIP:** [reel-28-bridal-season-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-28-bridal-season/reel-28-bridal-season-delivery.zip)
+
+### 30 · One Star?!
+*Dar Zellij — Review defense — one bad review tanks you; real proof fights back*
+
+- **Video:** [reel-29-one-star.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/reel.mp4) — 14.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/reel.mp4)
+- **Cover:** [reel-29-one-star-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/cover.jpg) — 756 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/cover.jpg)
+- **Caption:** [reel-29-one-star/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/caption.txt)
+- **Hashtags:** [reel-29-one-star/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/delivery/hashtags.txt)
+- **Full ZIP:** [reel-29-one-star-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-29-one-star/reel-29-one-star-delivery.zip)
+
+### 31 · A PDF in 2026?!
+*Café Verona — Menu friction — a broken PDF menu sends diners next door*
+
+- **Video:** [reel-30-pdf-menu.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/reel.mp4) — 13.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/reel.mp4)
+- **Cover:** [reel-30-pdf-menu-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/cover.jpg) — 597 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/cover.jpg)
+- **Caption:** [reel-30-pdf-menu/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/caption.txt)
+- **Hashtags:** [reel-30-pdf-menu/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/delivery/hashtags.txt)
+- **Full ZIP:** [reel-30-pdf-menu-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-30-pdf-menu/reel-30-pdf-menu-delivery.zip)
+
+### 32 · Empty 8 Months
+*CasaKeys Realty — Dead listings — an empty villa needs a stunning site, not a sign*
+
+- **Video:** [reel-31-empty-villa.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel.mp4) — 13.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel.mp4)
+- **Cover:** [reel-31-empty-villa-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/cover.jpg) — 733 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/cover.jpg)
+- **Caption:** [reel-31-empty-villa/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/caption.txt)
+- **Hashtags:** [reel-31-empty-villa/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/delivery/hashtags.txt)
+- **Full ZIP:** [reel-31-empty-villa-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel-31-empty-villa-delivery.zip)
+
+### 33 · Eid Rush
+*Couture El Fassi — Seasonal rush — Eid orders go to whoever takes them online*
+
+- **Video:** [reel-32-eid-rush.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel.mp4) — 14.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel.mp4)
+- **Cover:** [reel-32-eid-rush-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/cover.jpg) — 807 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/cover.jpg)
+- **Caption:** [reel-32-eid-rush/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/caption.txt)
+- **Hashtags:** [reel-32-eid-rush/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/delivery/hashtags.txt)
+- **Full ZIP:** [reel-32-eid-rush-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel-32-eid-rush-delivery.zip)
+
+### 34 · Booked Next Door
+*Riad Jasmin — Booked elsewhere — tourists stay where they can book online*
+
+- **Video:** [reel-33-riad-next-door.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel.mp4) — 15.5 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel.mp4)
+- **Cover:** [reel-33-riad-next-door-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/cover.jpg) — 868 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/cover.jpg)
+- **Caption:** [reel-33-riad-next-door/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/caption.txt)
+- **Hashtags:** [reel-33-riad-next-door/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/hashtags.txt)
+- **Full ZIP:** [reel-33-riad-next-door-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel-33-riad-next-door-delivery.zip)

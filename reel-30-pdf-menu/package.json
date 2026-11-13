@@ -1,0 +1,11 @@
+{
+  "name": "reel-30-pdf-menu",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.9.13 preview",
+    "play": "npx --yes hyperframes@0.9.13 play",
+    "check": "npx --yes hyperframes@0.9.13 check",
+    "render": "npx --yes hyperframes@0.9.13 render"
+  }
+}
