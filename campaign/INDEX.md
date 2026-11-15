@@ -1,4 +1,4 @@
-# Thirty-Three Reels — thirty-three marketing angles
+# Thirty-Eight Reels — thirty-eight marketing angles
 
 **Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
@@ -875,3 +875,123 @@ Save this ♻️  ·  Follow @sitely_studioo for more
 **Hashtags:**
 
 #riad #marrakech #moroccotravel #boutiquehotel #smallbusiness #localbusiness #onlinebusiness #websitedesign #webdesigner #bookdirect #hotelsite #travelbusiness #digitalmarketing #businessgrowth #salesgrowth #freemockup #websitetips #anime #motiongraphics #sitelystudioo
+
+## 35 · You're Homeless
+- Business: Instagram Sellers
+- Angle: Rented land — one ban erases your shop; own your site
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/reel-34-one-ban-delivery.zip)
+
+**Caption:**
+
+One ban. That's all it takes. 📵
+
+Your Instagram shop is rented land. One restriction, one hack, one bad day — and every customer, every DM, every order is gone.
+
+A website is the shop you actually OWN. Nobody can ban your own land. Get found on Google, take orders while you sleep.
+
+Send this to a seller friend who lives on DMs 👇
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#ownyourbusiness #instagramtips #smallbusinessowner #onlinestore #ecommerce #digitalmarketing #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#ownyourbusiness #instagramtips #smallbusinessowner #onlinestore #ecommerce #digitalmarketing #businessgrowth #sitelystudioo
+
+## 36 · The 2AM Sale
+- Business: Late-Night Buyers
+- Angle: Midnight money — buyers purchase at 2AM from whoever answers
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/reel-35-2am-sale-delivery.zip)
+
+**Caption:**
+
+It's 2AM. She wants to buy. You're asleep. 😴
+
+No reply. No order page. So she buys from the rival whose website never sleeps — by 2:05AM.
+
+Your site sells while you dream. Prices, ordering, confirmation — all automatic. That's the whole game.
+
+Tag an owner who answers DMs at noon 😅👇
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#smallbusinessowner #onlinesales #ecommerce #sidehustle #businesstips #makemoneyonline #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#smallbusinessowner #onlinesales #ecommerce #sidehustle #businesstips #makemoneyonline #businessgrowth #sitelystudioo
+
+## 37 · Stop Boosting
+- Business: Ad-Burned Owners
+- Angle: Boost trap — paying rent on traffic you don't own
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel-36-stop-boosting-delivery.zip)
+
+**Caption:**
+
+Stop boosting your posts. Seriously. 🛑
+
+You're paying Instagram rent on a shop you don't own. The boost ends, the traffic dies, the money's gone.
+
+Own the land first — a website that catches every click forever. Then pour traffic on it.
+
+Agree or mad? Fight me in the comments 👇
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#instagramads #marketingtips #smallbusinessowner #digitalmarketing #businesstips #advertising #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#instagramads #marketingtips #smallbusinessowner #digitalmarketing #businesstips #advertising #businessgrowth #sitelystudioo
+
+## 38 · Cheaper Than Your Phone
+- Business: Price-Shocked Owners
+- Angle: Price reveal — a site costs less than your phone
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel-37-costs-less-delivery.zip)
+
+**Caption:**
+
+Guess what a website costs in 2026? 💸
+
+Less than the phone in your hand. One-time money for a shop that sells 24/7 — no rent, no salary, no sleep.
+
+Prices, ordering, Google, bookings — all included. Stop overthinking.
+
+Comment PRICE and I'll DM you the list 👇
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#websitedesign #webdesign #smallbusinessowner #onlinebusiness #businesstips #startup #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#websitedesign #webdesign #smallbusinessowner #onlinebusiness #businesstips #startup #businessgrowth #sitelystudioo
+
+## 39 · Send This To Him
+- Business: Friends With No Site
+- Angle: Send-to-friend — the share that saves a business
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel-38-send-this-delivery.zip)
+
+**Caption:**
+
+Send this to him. You know who. 📩
+
+The friend with the business and no website. Still taking orders in messy DMs. Still invisible on Google.
+
+One send could change his whole business. A site means orders, bookings, and customers finding him daily.
+
+Do it now 👇
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#smallbusinessowner #businesstips #entrepreneur #supportlocal #onlinebusiness #digitalmarketing #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#smallbusinessowner #businesstips #entrepreneur #supportlocal #onlinebusiness #digitalmarketing #businessgrowth #sitelystudioo

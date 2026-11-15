@@ -54,6 +54,11 @@ ITEMS = [
     ("reel-31-empty-villa", "Empty 8 Months", "Dead listings — an empty villa needs a stunning site, not a sign", "CasaKeys Realty"),
     ("reel-32-eid-rush", "Eid Rush", "Seasonal rush — Eid orders go to whoever takes them online", "Couture El Fassi"),
     ("reel-33-riad-next-door", "Booked Next Door", "Booked elsewhere — tourists stay where they can book online", "Riad Jasmin"),
+    ("reel-34-one-ban", "You're Homeless", "Rented land — one ban erases your shop; own your site", "Instagram Sellers"),
+    ("reel-35-2am-sale", "The 2AM Sale", "Midnight money — buyers purchase at 2AM from whoever answers", "Late-Night Buyers"),
+    ("reel-36-stop-boosting", "Stop Boosting", "Boost trap — paying rent on traffic you don't own", "Ad-Burned Owners"),
+    ("reel-37-costs-less", "Cheaper Than Your Phone", "Price reveal — a site costs less than your phone", "Price-Shocked Owners"),
+    ("reel-38-send-this", "Send This To Him", "Send-to-friend — the share that saves a business", "Friends With No Site"),
 ]
 
 
@@ -139,7 +144,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"33-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"38-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))

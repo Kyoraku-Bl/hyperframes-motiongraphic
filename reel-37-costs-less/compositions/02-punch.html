@@ -1,0 +1,188 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: #121715;
+    }
+    .clip {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .shake,
+    .cam {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .cam {
+      transform-origin: 50% 50%;
+    }
+    .plate {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .punch-wrap {
+      z-index: 30;
+    }
+    .punch-scrim {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 470px;
+      height: 640px;
+      background: linear-gradient(180deg, rgba(18, 23, 21, 0) 0%, rgba(18, 23, 21, 0.55) 30%, rgba(18, 23, 21, 0.55) 70%, rgba(18, 23, 21, 0) 100%);
+    }
+    #p2-sticker {
+      position: absolute;
+      left: 60px;
+      right: 60px;
+      top: 560px;
+      text-align: center;
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 100px;
+      line-height: 1.1;
+      letter-spacing: -0.025em;
+      color: #f3eee2;
+      text-shadow: 3px 3px 0 #121715, -3px 3px 0 #121715, 3px -3px 0 #121715, -3px -3px 0 #121715, 0 10px 30px rgba(0, 0, 0, 0.85);
+    }
+    .punch-line {
+      white-space: nowrap;
+    }
+    #p2-sticker .hl {
+      background: #1f4736;
+      color: #f3eee2;
+      padding: 0 20px 8px;
+      border-radius: 12px;
+      box-shadow: 0 8px 0 rgba(10, 26, 18, 0.5);
+      display: inline-block;
+    }
+    #p2-pill {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 950px;
+      text-align: center;
+    }
+    #p2-pill span {
+      display: inline-block;
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 40px;
+      color: #f3eee2;
+      background: #1f4736;
+      border: 3px solid rgba(243, 238, 226, 0.75);
+      border-radius: 999px;
+      padding: 14px 44px;
+      box-shadow: 0 8px 0 rgba(10, 26, 18, 0.55);
+      white-space: nowrap;
+    }
+    #p2-handle {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 1052px;
+      text-align: center;
+    }
+    #p2-handle span {
+      display: inline-block;
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 32px;
+      letter-spacing: 0.12em;
+      color: #f3eee2;
+      background: rgba(18, 23, 21, 0.82);
+      border: 3px solid rgba(243, 238, 226, 0.75);
+      border-radius: 999px;
+      padding: 12px 38px;
+      box-shadow: 0 6px 0 rgba(10, 26, 18, 0.55);
+      white-space: nowrap;
+    }
+  </style>
+
+  <div id="root" data-composition-id="punch" data-width="1080" data-height="1920" data-duration="4.1">
+    <!-- Plate B push-in -->
+    <div id="p2-plate" class="clip" data-start="0" data-duration="4.1" data-track-index="1">
+      <div id="p2-shake" class="shake">
+        <div id="p2-cam" class="cam">
+          <img class="plate" src="assets/plates/r37b-phone.jpg" alt="Phone balanced against a website on scales" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Punch sticker slam + CTA pill + handle -->
+    <div id="p2-text-clip" class="clip punch-wrap" data-start="0" data-duration="4.1" data-track-index="5">
+      <div id="p2-fade">
+        <div class="punch-scrim"></div>
+        <div id="p2-sticker">
+          <div class="punch-line"><span class="hl">CHEAPER THAN</span></div>
+          <div class="punch-line"><span class="hl">YOUR PHONE</span></div>
+        </div>
+        <div id="p2-pill"><span>COMMENT 'PRICE' BELOW</span></div>
+        <div id="p2-handle"><span>@sitely_studioo</span></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tl = gsap.timeline({ paused: true });
+
+    tl.fromTo(
+      "#p2-cam",
+      { scale: 1.14, x: -30, y: 6 },
+      { scale: 1.05, x: 18, y: -4, duration: 4.1, ease: "power1.inOut" },
+      0,
+    );
+    tl.fromTo(
+      "#p2-shake",
+      { x: 6, y: -3 },
+      {
+        keyframes: [
+          { x: -5, y: 3, duration: 0.8 },
+          { x: 4, y: -2, duration: 0.8 },
+          { x: -3, y: 2, duration: 0.8 },
+          { x: 2, y: 0, duration: 0.85 },
+          { x: 0, y: 0, duration: 0.85 },
+        ],
+        ease: "none",
+      },
+      0,
+    );
+
+    // Sticker slam + shake, pill + handle follow.
+    tl.fromTo(
+      "#p2-sticker",
+      { opacity: 0, scale: 2.2, y: -30 },
+      { opacity: 1, scale: 1, y: 0, duration: 0.2, ease: "back.out(1.6)" },
+      0.05,
+    );
+    tl.fromTo("#p2-sticker", { x: 0, y: 0 }, { keyframes: [
+      { x: -12, y: 5, duration: 0.06 }, { x: 10, y: -4, duration: 0.06 },
+      { x: -6, y: 2, duration: 0.06 }, { x: 0, y: 0, duration: 0.08 },
+    ], ease: "none", immediateRender: false }, 0.27);
+    tl.fromTo(
+      "#p2-pill",
+      { opacity: 0, y: 44 },
+      { opacity: 1, y: 0, duration: 0.24, ease: "back.out(2)" },
+      0.5,
+    );
+    tl.fromTo(
+      "#p2-handle",
+      { opacity: 0 },
+      { opacity: 1, duration: 0.2, ease: "power2.out" },
+      0.7,
+    );
+    tl.to("#p2-fade", { opacity: 0, duration: 0.18, ease: "power2.in" }, 3.9);
+
+    window.__timelines["punch"] = tl;
+  </script>
+</template>

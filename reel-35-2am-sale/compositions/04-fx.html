@@ -1,0 +1,55 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: visible;
+      pointer-events: none;
+    }
+    .clip {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    #fx-punch-flash {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      background: radial-gradient(ellipse at 50% 40%, rgba(255,255,255,0.98) 0%, rgba(243,238,226,0.55) 45%, rgba(243,238,226,0) 75%);
+    }
+    #fx-cta-lines {
+      position: absolute;
+      inset: -25%;
+      opacity: 0;
+      background: repeating-conic-gradient(from 0deg at 50% 50%, rgba(243, 238, 226, 0.26) 0deg 0.7deg, rgba(243, 238, 226, 0) 0.7deg 9deg);
+      -webkit-mask-image: radial-gradient(circle at 50% 50%, transparent 18%, #000 70%);
+      mask-image: radial-gradient(circle at 50% 50%, transparent 18%, #000 70%);
+      transform-origin: 50% 50%;
+    }
+  </style>
+
+  <div id="root" data-composition-id="fx" data-width="1080" data-height="1920" data-duration="7">
+    <!-- Punch flashes: hook slam, punch entrance, loop sting -->
+    <div id="fx-punch" class="clip" data-start="0" data-duration="7" data-track-index="30"><div id="fx-punch-flash"></div></div>
+
+    <!-- Speed-line rush into the punch -->
+    <div id="fx-rush" class="clip" data-start="2.51" data-duration="0.5" data-track-index="31"><div id="fx-cta-lines"></div></div>
+  </div>
+
+  <script>
+    const tl = gsap.timeline({ paused: true });
+
+    // PUNCH flashes (2-4 frames each) + punch speed rush.
+    tl.fromTo("#fx-punch-flash", { opacity: 0 }, { opacity: 0.9, duration: 0.04, ease: "power3.out" }, 0.04);
+    tl.to("#fx-punch-flash", { opacity: 0, duration: 0.09, ease: "power2.in" }, 0.08);
+    tl.fromTo("#fx-punch-flash", { opacity: 0 }, { opacity: 0.9, duration: 0.04, ease: "power3.out", immediateRender: false }, 2.52);
+    tl.to("#fx-punch-flash", { opacity: 0, duration: 0.09, ease: "power2.in" }, 2.56);
+    tl.fromTo("#fx-punch-flash", { opacity: 0 }, { opacity: 0.9, duration: 0.04, ease: "power3.out", immediateRender: false }, 6.58);
+    tl.to("#fx-punch-flash", { opacity: 0, duration: 0.09, ease: "power2.in" }, 6.62);
+    tl.fromTo("#fx-cta-lines", { opacity: 0, scale: 1.05, rotation: -4 }, { opacity: 0.7, scale: 1.35, rotation: 3, duration: 0.13, ease: "power2.out" }, 2.52);
+    tl.to("#fx-cta-lines", { opacity: 0, scale: 1.55, rotation: 6, duration: 0.13, ease: "power2.in" }, 2.65);
+
+    window.__timelines["fx"] = tl;
+  </script>
+</template>

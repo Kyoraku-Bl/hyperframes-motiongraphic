@@ -46,6 +46,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 32 · Empty 8 Months | [reel-31-empty-villa-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-31-empty-villa/reel-31-empty-villa-delivery.zip) | 14.5 MB |
 | 33 · Eid Rush | [reel-32-eid-rush-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-32-eid-rush/reel-32-eid-rush-delivery.zip) | 15.6 MB |
 | 34 · Booked Next Door | [reel-33-riad-next-door-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel-33-riad-next-door-delivery.zip) | 16.3 MB |
+| 35 · You're Homeless | [reel-34-one-ban-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/reel-34-one-ban-delivery.zip) | 3.0 MB |
+| 36 · The 2AM Sale | [reel-35-2am-sale-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/reel-35-2am-sale-delivery.zip) | 2.5 MB |
+| 37 · Stop Boosting | [reel-36-stop-boosting-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel-36-stop-boosting-delivery.zip) | 3.3 MB |
+| 38 · Cheaper Than Your Phone | [reel-37-costs-less-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel-37-costs-less-delivery.zip) | 3.8 MB |
+| 39 · Send This To Him | [reel-38-send-this-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel-38-send-this-delivery.zip) | 3.1 MB |
 ## All files
 
 ### 01 · The Midnight Search
@@ -361,3 +366,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-33-riad-next-door/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/caption.txt)
 - **Hashtags:** [reel-33-riad-next-door/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/delivery/hashtags.txt)
 - **Full ZIP:** [reel-33-riad-next-door-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-33-riad-next-door/reel-33-riad-next-door-delivery.zip)
+
+### 35 · You're Homeless
+*Instagram Sellers — Rented land — one ban erases your shop; own your site*
+
+- **Video:** [reel-34-one-ban.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/reel.mp4) — 2.6 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/reel.mp4)
+- **Cover:** [reel-34-one-ban-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/cover.jpg) — 337 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/cover.jpg)
+- **Caption:** [reel-34-one-ban/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/caption.txt)
+- **Hashtags:** [reel-34-one-ban/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/delivery/hashtags.txt)
+- **Full ZIP:** [reel-34-one-ban-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-34-one-ban/reel-34-one-ban-delivery.zip)
+
+### 36 · The 2AM Sale
+*Late-Night Buyers — Midnight money — buyers purchase at 2AM from whoever answers*
+
+- **Video:** [reel-35-2am-sale.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/reel.mp4) — 2.3 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/reel.mp4)
+- **Cover:** [reel-35-2am-sale-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/cover.jpg) — 278 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/cover.jpg)
+- **Caption:** [reel-35-2am-sale/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/caption.txt)
+- **Hashtags:** [reel-35-2am-sale/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/delivery/hashtags.txt)
+- **Full ZIP:** [reel-35-2am-sale-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-35-2am-sale/reel-35-2am-sale-delivery.zip)
+
+### 37 · Stop Boosting
+*Ad-Burned Owners — Boost trap — paying rent on traffic you don't own*
+
+- **Video:** [reel-36-stop-boosting.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel.mp4) — 2.9 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel.mp4)
+- **Cover:** [reel-36-stop-boosting-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/cover.jpg) — 417 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/cover.jpg)
+- **Caption:** [reel-36-stop-boosting/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/caption.txt)
+- **Hashtags:** [reel-36-stop-boosting/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/delivery/hashtags.txt)
+- **Full ZIP:** [reel-36-stop-boosting-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel-36-stop-boosting-delivery.zip)
+
+### 38 · Cheaper Than Your Phone
+*Price-Shocked Owners — Price reveal — a site costs less than your phone*
+
+- **Video:** [reel-37-costs-less.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel.mp4) — 3.2 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel.mp4)
+- **Cover:** [reel-37-costs-less-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/cover.jpg) — 570 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/cover.jpg)
+- **Caption:** [reel-37-costs-less/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/caption.txt)
+- **Hashtags:** [reel-37-costs-less/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/delivery/hashtags.txt)
+- **Full ZIP:** [reel-37-costs-less-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel-37-costs-less-delivery.zip)
+
+### 39 · Send This To Him
+*Friends With No Site — Send-to-friend — the share that saves a business*
+
+- **Video:** [reel-38-send-this.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel.mp4) — 2.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel.mp4)
+- **Cover:** [reel-38-send-this-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/cover.jpg) — 389 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/cover.jpg)
+- **Caption:** [reel-38-send-this/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/caption.txt)
+- **Hashtags:** [reel-38-send-this/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/hashtags.txt)
+- **Full ZIP:** [reel-38-send-this-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel-38-send-this-delivery.zip)
