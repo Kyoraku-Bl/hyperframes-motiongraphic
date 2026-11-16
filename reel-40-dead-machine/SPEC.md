@@ -17,9 +17,9 @@ word-by-word captions throughout · seamless loop (frame 209 = frame 0).
   ping sting + flash decayed by 6.71 — loops clean.
 
 ## Voice
-None — silent kinetic reel; the script lives in the timed captions:
-- `a-open` 0.15s — Dead page to booking machine!
-- `a-angle` 2.55s — Forty-eight hours. Before, after. That's the post.
+Two salesman lines:
+- `a-open` 0.15s — Dead page? Watch THIS flip!
+- `a-angle` 2.55s — Forty-eight hours to a booking machine. DM FLIP now!
 
 ## Why it creates the need
 Dead page. Booking machine. 48 hours. ⚙️

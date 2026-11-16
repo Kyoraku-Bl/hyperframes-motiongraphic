@@ -17,9 +17,9 @@ word-by-word captions throughout · seamless loop (frame 209 = frame 0).
   ping sting + flash decayed by 6.71 — loops clean.
 
 ## Voice
-None — silent kinetic reel; the script lives in the timed captions:
-- `a-open` 0.15s — Two boosts, or a website?
-- `a-angle` 2.55s — Boosts die in a day. A site sells forever.
+Two salesman lines:
+- `a-open` 0.15s — Stop burning boost money!
+- `a-angle` 2.55s — One site sells forever. Comment PRICE right now!
 
 ## Why it creates the need
 Two boosted posts. Or a website. Pick one. 💸

@@ -17,9 +17,9 @@ word-by-word captions throughout · seamless loop (frame 209 = frame 0).
   ping sting + flash decayed by 6.71 — loops clean.
 
 ## Voice
-None — silent kinetic reel; the script lives in the timed captions:
-- `a-open` 0.15s — Want clients in seven days?
-- `a-angle` 2.55s — Free mockup in twenty-four hours. Link in bio!
+Two salesman lines:
+- `a-open` 0.15s — Clients in seven days?!
+- `a-angle` 2.55s — Free mockup in twenty-four hours! Link in bio now!
 
 ## Why it creates the need
 Clients in 7 days. Here's the deal. 📩

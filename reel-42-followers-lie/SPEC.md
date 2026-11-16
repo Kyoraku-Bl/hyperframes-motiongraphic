@@ -17,9 +17,9 @@ word-by-word captions throughout · seamless loop (frame 209 = frame 0).
   ping sting + flash decayed by 6.71 — loops clean.
 
 ## Voice
-None — silent kinetic reel; the script lives in the timed captions:
-- `a-open` 0.15s — Followers don't pay you!
-- `a-angle` 2.55s — You don't need followers. You need THIS.
+Two salesman lines:
+- `a-open` 0.15s — Followers don't pay YOU!
+- `a-angle` 2.55s — You need buyers, not likes. DM PROOF right now!
 
 ## Why it creates the need
 10K followers. Zero sales. Sound familiar? 🎈

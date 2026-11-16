@@ -19,30 +19,30 @@
   </style>
 
   <div id="root" data-composition-id="captions" data-width="1080" data-height="1920" data-duration="7">
-    <div id="cap-01" class="cap clip" data-start="0.15" data-duration="1.41" data-track-index="1">
-      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>Two</span><span class="w" data-layout-allow-occlusion>boosts,</span><span class="w" data-layout-allow-occlusion>or</span></div>
+    <div id="cap-01" class="cap clip" data-start="0.15" data-duration="1.175" data-track-index="1">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>Stop</span><span class="w hl" data-layout-allow-occlusion>burning</span></div>
     </div>
-    <div id="cap-02" class="cap clip" data-start="1.56" data-duration="0.94" data-track-index="2">
-      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>a</span><span class="w hl" data-layout-allow-occlusion>website?</span></div>
+    <div id="cap-02" class="cap clip" data-start="1.325" data-duration="1.175" data-track-index="2">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>boost</span><span class="w" data-layout-allow-occlusion>money!</span></div>
     </div>
-    <div id="cap-03" class="cap clip" data-start="2.55" data-duration="1.35" data-track-index="3">
-      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>Boosts</span><span class="w" data-layout-allow-occlusion>die</span><span class="w" data-layout-allow-occlusion>in</span></div>
+    <div id="cap-03" class="cap clip" data-start="2.55" data-duration="1.519" data-track-index="3">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>One</span><span class="w" data-layout-allow-occlusion>site</span><span class="w" data-layout-allow-occlusion>sells</span></div>
     </div>
-    <div id="cap-04" class="cap clip" data-start="3.9" data-duration="1.35" data-track-index="4">
-      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>a</span><span class="w" data-layout-allow-occlusion>day.</span><span class="w" data-layout-allow-occlusion>A</span></div>
+    <div id="cap-04" class="cap clip" data-start="4.069" data-duration="1.518" data-track-index="4">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>forever.</span><span class="w" data-layout-allow-occlusion>Comment</span><span class="w hl" data-layout-allow-occlusion>PRICE</span></div>
     </div>
-    <div id="cap-05" class="cap clip" data-start="5.25" data-duration="1.35" data-track-index="5">
-      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>site</span><span class="w" data-layout-allow-occlusion>sells</span><span class="w hl" data-layout-allow-occlusion>forever.</span></div>
+    <div id="cap-05" class="cap clip" data-start="5.587" data-duration="1.013" data-track-index="5">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>right</span><span class="w" data-layout-allow-occlusion>now!</span></div>
     </div>
   </div>
 
   <script>
     const groups = [
-      ["cap-01", 0.15, 1.56],
-      ["cap-02", 1.56, 2.5],
-      ["cap-03", 2.55, 3.9],
-      ["cap-04", 3.9, 5.25],
-      ["cap-05", 5.25, 6.6],
+      ["cap-01", 0.15, 1.325],
+      ["cap-02", 1.325, 2.5],
+      ["cap-03", 2.55, 4.069],
+      ["cap-04", 4.069, 5.587],
+      ["cap-05", 5.587, 6.6],
     ];
 
     const tl = gsap.timeline({ paused: true });
@@ -57,8 +57,8 @@
       tl.to(inner, { opacity: 0, duration: 0.1, ease: "power2.in" }, end - 0.1);
       tl.set(inner, { opacity: 0, visibility: "hidden" }, end);
     });
-    tl.fromTo("#cap-02 .w.hl", { scale: 1.7 }, { scale: 1, duration: 0.22, ease: "power4.out", immediateRender: false }, 1.7);
-    tl.fromTo("#cap-05 .w.hl", { scale: 1.7 }, { scale: 1, duration: 0.22, ease: "power4.out", immediateRender: false }, 5.39);
+    tl.fromTo("#cap-01 .w.hl", { scale: 1.7 }, { scale: 1, duration: 0.22, ease: "power4.out", immediateRender: false }, 0.29);
+    tl.fromTo("#cap-04 .w.hl", { scale: 1.7 }, { scale: 1, duration: 0.22, ease: "power4.out", immediateRender: false }, 4.209);
 
     window.__timelines["captions"] = tl;
   </script>

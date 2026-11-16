@@ -17,9 +17,9 @@ word-by-word captions throughout · seamless loop (frame 209 = frame 0).
   ping sting + flash decayed by 6.71 — loops clean.
 
 ## Voice
-None — silent kinetic reel; the script lives in the timed captions:
-- `a-open` 0.15s — Your page is leaking clients!
-- `a-angle` 2.55s — Comment AUDIT and I'll roast it for free.
+Two salesman lines:
+- `a-open` 0.15s — Your page is BLEEDING clients!
+- `a-angle` 2.55s — Comment AUDIT now! I'll roast it free today!
 
 ## Why it creates the need
 Your page is leaking clients. Every day. 🚨

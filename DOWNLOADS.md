@@ -429,7 +429,7 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 ### 41 · Dead Page to Machine
 *Silent Sellers — Transformation — dead page to booking machine in 48 hours*
 
-- **Video:** [reel-40-dead-machine.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4) — 4.1 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4)
+- **Video:** [reel-40-dead-machine.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4) — 4.0 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4)
 - **Cover:** [reel-40-dead-machine-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/cover.jpg) — 480 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/cover.jpg)
 - **Caption:** [reel-40-dead-machine/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/caption.txt)
 - **Hashtags:** [reel-40-dead-machine/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/hashtags.txt)
