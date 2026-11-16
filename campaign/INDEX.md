@@ -1,4 +1,4 @@
-# Thirty-Eight Reels — thirty-eight marketing angles
+# Forty-Three Reels — forty-three marketing angles
 
 **Download everything here:** [`DOWNLOADS.md`](../DOWNLOADS.md) — all GitHub links in one place.
 
@@ -995,3 +995,121 @@ Save this ♻️  ·  Follow @sitely_studioo for more
 **Hashtags:**
 
 #smallbusinessowner #businesstips #entrepreneur #supportlocal #onlinebusiness #digitalmarketing #businessgrowth #sitelystudioo
+
+## 40 · Leaking Clients
+- Business: Leaky Pages
+- Angle: Free audit — your page leaks clients daily; comment AUDIT for a free roast
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/reel-39-leaking-page-delivery.zip)
+
+**Caption:**
+
+Your page is leaking clients. Every day. 🚨
+
+Weak bio, no proof, no way to buy — visitors land, get confused, and leave for the rival whose page sells for them.
+
+I'm roasting business pages FOR FREE. Comment AUDIT and I'll show you exactly where yours leaks 👇
+
+WhatsApp link in bio for the impatient ⚡
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#instagramaudit #smallbusinessowner #businesstips #socialmediamarketing #onlinebusiness #digitalmarketing #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#instagramaudit #smallbusinessowner #businesstips #socialmediamarketing #onlinebusiness #digitalmarketing #businessgrowth #sitelystudioo
+
+## 41 · Dead Page to Machine
+- Business: Silent Sellers
+- Angle: Transformation — dead page to booking machine in 48 hours
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel-40-dead-machine-delivery.zip)
+
+**Caption:**
+
+Dead page. Booking machine. 48 hours. ⚙️
+
+Same business, same followers. The only difference: a site that sells while they sleep — prices, ordering, Google sending buyers daily.
+
+Your page could be next. DM me 'FLIP' 👇
+
+WhatsApp link in bio ⚡
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#websitetransformation #beforeafter #smallbusinessowner #onlinebusiness #webdesign #ecommerce #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#websitetransformation #beforeafter #smallbusinessowner #onlinebusiness #webdesign #ecommerce #businessgrowth #sitelystudioo
+
+## 42 · Boosts vs Site
+- Business: Boost Burners
+- Angle: Price proof — two boosts die in a day, a site sells forever
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/reel-41-boosts-vs-site-delivery.zip)
+
+**Caption:**
+
+Two boosted posts. Or a website. Pick one. 💸
+
+Boosts die the day the budget ends. A website sells every single day — no budget, no bidding, no begging the algorithm.
+
+Pay once. Sell daily.
+
+Comment PRICE and I'll DM you the list 👇
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#instagramads #marketingtips #smallbusinessowner #onlinebusiness #businesstips #digitalmarketing #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#instagramads #marketingtips #smallbusinessowner #onlinebusiness #businesstips #digitalmarketing #businessgrowth #sitelystudioo
+
+## 43 · Followers Lie
+- Business: Follower Chasers
+- Angle: Myth-bust — followers don't pay, a converting site does
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/reel-42-followers-lie-delivery.zip)
+
+**Caption:**
+
+10K followers. Zero sales. Sound familiar? 🎈
+
+Followers are vanity. What pays you is a page that converts: proof, prices, and a buy button that works at midnight.
+
+You don't need followers. You need THIS.
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#mythbusted #smallbusinessowner #businesstips #onlinebusiness #marketingtips #digitalmarketing #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#mythbusted #smallbusinessowner #businesstips #onlinebusiness #marketingtips #digitalmarketing #businessgrowth #sitelystudioo
+
+## 44 · Clients in 7 Days
+- Business: Impatient Owners
+- Angle: Direct offer — free mockup in 24 hours, link in bio
+
+**Downloads:** [MP4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/reel.mp4) · [Cover](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/cover.jpg) · [Caption](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/caption.txt) · [Hashtags](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/hashtags.txt) · [Full ZIP](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/reel-43-clients-7-days-delivery.zip)
+
+**Caption:**
+
+Clients in 7 days. Here's the deal. 📩
+
+Free website mockup for your business in 24 hours. You look, you love it, we launch it — clients start finding you on Google.
+
+No mockup, no pay. Zero risk.
+
+Link in bio — WhatsApp me today ⚡
+
+Save this ♻️  ·  Follow @sitely_studioo for more
+
+#getclients #smallbusinessowner #onlinebusiness #webdesign #businesstips #startup #businessgrowth #sitelystudioo
+
+**Hashtags:**
+
+#getclients #smallbusinessowner #onlinebusiness #webdesign #businesstips #startup #businessgrowth #sitelystudioo

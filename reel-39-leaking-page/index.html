@@ -1,0 +1,165 @@
+<!doctype html>
+<html
+  lang="en"
+  data-resolution="portrait"
+  data-composition-variables='[{"id":"hook","type":"string","label":"Hook line","default":"YOUR PAGE?! IS LEAKING?! CLIENTS?!"},{"id":"endline","type":"string","label":"End card","default":"Your website. Done for you."},{"id":"handle","type":"string","label":"Instagram handle","default":"@sitely_studioo"},{"id":"accent","type":"color","label":"Dark green accent","default":"#1F4736"}]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <title>sitely_studioo &mdash; Leaking Clients (7s Reel)</title>
+    <!-- GSAP is vendored locally so renders never depend on the network. -->
+    <script src="assets/lib/gsap.min.js"></script>
+    <style>
+      :root {
+        --cream: #f3eee2;
+        --green: #1f4736;
+        --ink: #121715;
+        --gold: #f0c987;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: var(--ink);
+        font-family: "Inter", sans-serif;
+      }
+      #root {
+        position: relative;
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: var(--ink);
+      }
+      .scene-host {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+      }
+      #hook,
+      #punch,
+      #loop {
+        z-index: 1;
+      }
+      #fx {
+        z-index: 4;
+        pointer-events: none;
+      }
+      #captions {
+        z-index: 5;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="7"
+      data-width="1080"
+      data-height="1920"
+      data-fps="30"
+    >
+      <!-- SHOT 1: 0-2.5s, hook slam on plate A -->
+      <div
+        id="hook"
+        class="scene-host"
+        data-composition-id="hook"
+        data-composition-src="compositions/01-hook.html"
+        data-start="0"
+        data-duration="2.5"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1080"
+        data-height="1920"
+      ></div>
+
+      <!-- SHOT 2: 2.5-6.6s, punch sticker on plate B -->
+      <div
+        id="punch"
+        class="scene-host"
+        data-composition-id="punch"
+        data-composition-src="compositions/02-punch.html"
+        data-start="2.5"
+        data-duration="4.1"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1080"
+        data-height="1920"
+      ></div>
+
+      <!-- SHOT 3: 6.6-7.0s, loop hold = exact frame-0 state -->
+      <div
+        id="loop"
+        class="scene-host"
+        data-composition-id="loop"
+        data-composition-src="compositions/03-loop.html"
+        data-start="6.6"
+        data-duration="0.4"
+        data-track-index="1"
+        data-track-kind="graphics"
+        data-width="1080"
+        data-height="1920"
+      ></div>
+
+      <!-- Punch flashes + speed-line rush (opacity-only: loop-safe) -->
+      <div
+        id="fx"
+        class="scene-host"
+        data-composition-id="fx"
+        data-composition-src="compositions/04-fx.html"
+        data-start="0"
+        data-duration="7"
+        data-track-index="3"
+        data-track-kind="graphics"
+        data-width="1080"
+        data-height="1920"
+      ></div>
+
+      <!-- Every subtitle group lives on this one captions track -->
+      <div
+        id="captions"
+        class="scene-host"
+        data-composition-id="captions"
+        data-composition-src="compositions/05-captions.html"
+        data-start="0"
+        data-duration="7"
+        data-track-index="4"
+        data-track-kind="captions"
+        data-width="1080"
+        data-height="1920"
+      ></div>
+
+      <!-- Room tone (no music: VO + foley SFX only, music-free by design) -->
+      <audio
+        id="a-room"
+        class="clip"
+        src="assets/audio/cafe-ambience.wav"
+        data-start="0"
+        data-duration="7"
+        data-volume="0.22"
+        data-fade-in="0.15"
+        data-fade-out="0.25"
+        data-track-index="11"
+      ></audio>
+
+      <!-- SILENT KINETIC REEL: foley SFX + room tone only (no voice, no music) -->
+      <audio id="a-slam" class="clip" src="assets/audio/sfx-whip.wav" data-start="0.02" data-duration="0.3" data-volume="0.5" data-track-index="12"></audio>
+      <audio id="a-punchit" class="clip" src="assets/audio/sfx-whip.wav" data-start="2.53" data-duration="0.3" data-volume="0.5" data-track-index="13"></audio>
+      <audio id="a-pop" class="clip" src="assets/audio/sfx-laptop.wav" data-start="3.0" data-duration="0.24" data-volume="0.4" data-track-index="15"></audio>
+      <audio id="a-sting" class="clip" src="assets/audio/sfx-ping.wav" data-start="6.58" data-duration="0.42" data-volume="0.45" data-track-index="14"></audio>
+
+    </div>
+    <script>
+      window.__timelines["main"] = gsap.timeline({ paused: true });
+    </script>
+  </body>
+</html>

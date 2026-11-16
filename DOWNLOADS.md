@@ -51,6 +51,11 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 | 37 · Stop Boosting | [reel-36-stop-boosting-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-36-stop-boosting/reel-36-stop-boosting-delivery.zip) | 3.3 MB |
 | 38 · Cheaper Than Your Phone | [reel-37-costs-less-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-37-costs-less/reel-37-costs-less-delivery.zip) | 3.8 MB |
 | 39 · Send This To Him | [reel-38-send-this-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel-38-send-this-delivery.zip) | 3.1 MB |
+| 40 · Leaking Clients | [reel-39-leaking-page-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/reel-39-leaking-page-delivery.zip) | 3.2 MB |
+| 41 · Dead Page to Machine | [reel-40-dead-machine-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel-40-dead-machine-delivery.zip) | 4.5 MB |
+| 42 · Boosts vs Site | [reel-41-boosts-vs-site-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/reel-41-boosts-vs-site-delivery.zip) | 4.1 MB |
+| 43 · Followers Lie | [reel-42-followers-lie-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/reel-42-followers-lie-delivery.zip) | 4.4 MB |
+| 44 · Clients in 7 Days | [reel-43-clients-7-days-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/reel-43-clients-7-days-delivery.zip) | 4.3 MB |
 ## All files
 
 ### 01 · The Midnight Search
@@ -411,3 +416,48 @@ Branch: `arena/76da1170-hyperframes-motiongraphic` · repo is public · no sign-
 - **Caption:** [reel-38-send-this/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/caption.txt)
 - **Hashtags:** [reel-38-send-this/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/delivery/hashtags.txt)
 - **Full ZIP:** [reel-38-send-this-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-38-send-this/reel-38-send-this-delivery.zip)
+
+### 40 · Leaking Clients
+*Leaky Pages — Free audit — your page leaks clients daily; comment AUDIT for a free roast*
+
+- **Video:** [reel-39-leaking-page.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/reel.mp4) — 2.9 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/reel.mp4)
+- **Cover:** [reel-39-leaking-page-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/cover.jpg) — 384 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/cover.jpg)
+- **Caption:** [reel-39-leaking-page/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/caption.txt)
+- **Hashtags:** [reel-39-leaking-page/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/delivery/hashtags.txt)
+- **Full ZIP:** [reel-39-leaking-page-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-39-leaking-page/reel-39-leaking-page-delivery.zip)
+
+### 41 · Dead Page to Machine
+*Silent Sellers — Transformation — dead page to booking machine in 48 hours*
+
+- **Video:** [reel-40-dead-machine.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4) — 4.1 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel.mp4)
+- **Cover:** [reel-40-dead-machine-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/cover.jpg) — 480 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/cover.jpg)
+- **Caption:** [reel-40-dead-machine/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/caption.txt)
+- **Hashtags:** [reel-40-dead-machine/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/delivery/hashtags.txt)
+- **Full ZIP:** [reel-40-dead-machine-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-40-dead-machine/reel-40-dead-machine-delivery.zip)
+
+### 42 · Boosts vs Site
+*Boost Burners — Price proof — two boosts die in a day, a site sells forever*
+
+- **Video:** [reel-41-boosts-vs-site.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/reel.mp4) — 3.6 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/reel.mp4)
+- **Cover:** [reel-41-boosts-vs-site-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/cover.jpg) — 456 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/cover.jpg)
+- **Caption:** [reel-41-boosts-vs-site/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/caption.txt)
+- **Hashtags:** [reel-41-boosts-vs-site/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/delivery/hashtags.txt)
+- **Full ZIP:** [reel-41-boosts-vs-site-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-41-boosts-vs-site/reel-41-boosts-vs-site-delivery.zip)
+
+### 43 · Followers Lie
+*Follower Chasers — Myth-bust — followers don't pay, a converting site does*
+
+- **Video:** [reel-42-followers-lie.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/reel.mp4) — 3.9 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/reel.mp4)
+- **Cover:** [reel-42-followers-lie-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/cover.jpg) — 506 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/cover.jpg)
+- **Caption:** [reel-42-followers-lie/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/caption.txt)
+- **Hashtags:** [reel-42-followers-lie/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/delivery/hashtags.txt)
+- **Full ZIP:** [reel-42-followers-lie-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-42-followers-lie/reel-42-followers-lie-delivery.zip)
+
+### 44 · Clients in 7 Days
+*Impatient Owners — Direct offer — free mockup in 24 hours, link in bio*
+
+- **Video:** [reel-43-clients-7-days.mp4](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/reel.mp4) — 3.8 MB · [GitHub page with Download button](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/reel.mp4)
+- **Cover:** [reel-43-clients-7-days-cover.jpg](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/cover.jpg) — 518 KB · [GitHub page](https://github.com/Kyoraku-Bl/hyperframes-motiongraphic/blob/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/cover.jpg)
+- **Caption:** [reel-43-clients-7-days/delivery/caption.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/caption.txt)
+- **Hashtags:** [reel-43-clients-7-days/delivery/hashtags.txt](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/delivery/hashtags.txt)
+- **Full ZIP:** [reel-43-clients-7-days-delivery.zip](https://raw.githubusercontent.com/Kyoraku-Bl/hyperframes-motiongraphic/arena/76da1170-hyperframes-motiongraphic/reel-43-clients-7-days/reel-43-clients-7-days-delivery.zip)

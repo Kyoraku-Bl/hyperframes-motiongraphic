@@ -59,6 +59,11 @@ ITEMS = [
     ("reel-36-stop-boosting", "Stop Boosting", "Boost trap — paying rent on traffic you don't own", "Ad-Burned Owners"),
     ("reel-37-costs-less", "Cheaper Than Your Phone", "Price reveal — a site costs less than your phone", "Price-Shocked Owners"),
     ("reel-38-send-this", "Send This To Him", "Send-to-friend — the share that saves a business", "Friends With No Site"),
+    ("reel-39-leaking-page", "Leaking Clients", "Free audit — your page leaks clients daily; comment AUDIT for a free roast", "Leaky Pages"),
+    ("reel-40-dead-machine", "Dead Page to Machine", "Transformation — dead page to booking machine in 48 hours", "Silent Sellers"),
+    ("reel-41-boosts-vs-site", "Boosts vs Site", "Price proof — two boosts die in a day, a site sells forever", "Boost Burners"),
+    ("reel-42-followers-lie", "Followers Lie", "Myth-bust — followers don't pay, a converting site does", "Follower Chasers"),
+    ("reel-43-clients-7-days", "Clients in 7 Days", "Direct offer — free mockup in 24 hours, link in bio", "Impatient Owners"),
 ]
 
 
@@ -144,7 +149,7 @@ class Handler(BaseHTTPRequestHandler):
         inline = query.get("inline", ["0"])[0] == "1"
 
         if path == "/health":
-            body = b'{"status":"ok","service":"38-reel-campaign","port":3005,"downloads":"github"}'
+            body = b'{"status":"ok","service":"43-reel-campaign","port":3005,"downloads":"github"}'
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
