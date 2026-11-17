@@ -1,0 +1,247 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: #121715;
+    }
+    .clip {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .cam {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      transform-origin: 50% 50%;
+    }
+    .plate {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* --- 8.00-9.15: the site loads instantly on a phone held in a hand --- */
+    #p3-mini {
+      position: absolute;
+      left: 31.6%;
+      top: 27.3%;
+      width: 35.7%;
+      height: 43.6%;
+      overflow: hidden;
+      border-radius: 24px;
+      background: #f3eee2;
+      font-family: "Inter", sans-serif;
+      padding: 20px 18px 18px;
+    }
+    .mini-head {
+      height: 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #1f4736;
+      color: #f3eee2;
+      border-radius: 8px;
+      padding: 0 14px;
+      font-weight: 900;
+      font-size: 30px;
+      letter-spacing: -0.02em;
+    }
+    .mini-hero {
+      height: 190px;
+      margin: 16px 0 12px;
+      overflow: hidden;
+      border: 3px solid #121715;
+      border-radius: 8px;
+    }
+    .mini-hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 88%;
+    }
+    .mini-title {
+      font-weight: 900;
+      font-size: 32px;
+      color: #1f4736;
+      margin-bottom: 8px;
+    }
+    .mini-row {
+      height: 62px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 3px solid rgba(31, 71, 54, 0.3);
+      font-weight: 700;
+      font-size: 30px;
+      color: #121715;
+    }
+    .mini-row b {
+      color: #1f4736;
+      font-weight: 900;
+    }
+    #p3-mini-btn {
+      margin-top: 18px;
+      height: 96px;
+      background: #1f4736;
+      border: 3px solid #123c28;
+      border-radius: 10px;
+      color: #f3eee2;
+      font-weight: 900;
+      font-size: 31px;
+      line-height: 1.1;
+      text-align: center;
+      padding-top: 16px;
+      box-shadow: 0 7px 0 #123c28;
+    }
+    #p3-loadbar {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 9px;
+      background: #1f4736;
+      transform-origin: 0 50%;
+      transform: scaleX(0);
+    }
+
+    /* --- 9.15-10.30: the "New order" notification lands on the lock screen --- */
+    #p3-lock {
+      position: absolute;
+      left: 35.5%;
+      top: 38.5%;
+      width: 29%;
+      height: 34.2%;
+      overflow: hidden;
+      border-radius: 22px;
+      background: linear-gradient(180deg, #2b6249 0%, #14392b 60%, #0d2a20 100%);
+      font-family: "Inter", sans-serif;
+      color: #f3eee2;
+      padding: 46px 16px 16px;
+    }
+    #p3-lock-time {
+      text-align: center;
+      font-weight: 900;
+      font-size: 72px;
+      line-height: 1;
+      letter-spacing: -0.03em;
+      text-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+    }
+    #p3-lock-date {
+      text-align: center;
+      font-weight: 700;
+      font-size: 28px;
+      margin-top: 8px;
+      color: #d9e8d8;
+    }
+    #p3-toast {
+      margin-top: 42px;
+      background: #f3eee2;
+      color: #121715;
+      border: 4px solid #121715;
+      border-radius: 16px;
+      padding: 18px 16px;
+      box-shadow: 8px 10px 0 rgba(6, 20, 14, 0.55);
+    }
+    .toast-top {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .toast-badge {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: #1f4736;
+      color: #f3eee2;
+      font-weight: 900;
+      font-size: 26px;
+      text-align: center;
+      line-height: 36px;
+    }
+    #p3-toast-title {
+      font-weight: 900;
+      font-size: 34px;
+      letter-spacing: -0.02em;
+      color: #1f4736;
+    }
+    #p3-toast-body {
+      font-weight: 700;
+      font-size: 28px;
+      line-height: 1.25;
+    }
+  </style>
+
+  <div id="root" data-composition-id="proof" data-width="1080" data-height="1920" data-duration="5">
+    <!-- 8.00-9.15 phone in hand, website loading instantly -->
+    <div id="p3-web" class="clip" data-start="0" data-duration="1.15" data-track-index="1">
+      <div id="p3-web-cam" class="cam">
+        <img class="plate" src="assets/plates/07-phone-web.jpg" alt="A phone in a hand with the cafe website loading" />
+        <div id="p3-mini">
+          <div class="mini-head"><span>SHARP</span><span>≡</span></div>
+          <div class="mini-hero"><img src="assets/plates/barber-hero.jpg" alt="Anime-painted pastries and coffee" /></div>
+          <div class="mini-title">Book a chair</div>
+          <div class="mini-row"><span>Classic cut</span><b>$32.00</b></div>
+          <div class="mini-row"><span>Skin fade</span><b>$38.00</b></div>
+          <div id="p3-mini-btn">BOOK NOW</div>
+          <div id="p3-loadbar"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9.15-10.30 "New order" toast slides onto the lock screen -->
+    <div id="p3-lockshot" class="clip" data-start="1.15" data-duration="1.15" data-track-index="2">
+      <div id="p3-lock-cam" class="cam">
+        <img class="plate" src="assets/plates/08-phone-lock.jpg" alt="A phone on the cafe table with a new order notification" />
+        <div id="p3-lock">
+          <div id="p3-lock-time" data-layout-ignore>11:47</div>
+          <div id="p3-lock-date" data-layout-ignore>Thursday, Nov 5</div>
+          <div id="p3-toast" data-layout-ignore>
+            <div class="toast-top"><span class="toast-badge">S</span><span id="p3-toast-title">NEW BOOKING</span></div>
+            <div id="p3-toast-body" data-layout-ignore>Tom · 7:30pm<br />Skin fade</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10.30-11.65 wide track: the cafe fills up, owner hands over a cup -->
+    <div id="p3-crowd" class="clip" data-start="2.3" data-duration="1.35" data-track-index="3">
+      <div id="p3-crowd-cam" class="cam">
+        <img class="plate" src="assets/plates/n1-street.jpg" alt="The owner hands a coffee to a customer in the now busy cafe" />
+      </div>
+    </div>
+
+    <!-- 11.65-13.00 the handshake turns into a hug -->
+    <div id="p3-hug" class="clip" data-start="3.65" data-duration="1.35" data-track-index="4">
+      <div id="p3-hug-cam" class="cam">
+        <img class="plate" src="assets/plates/10-hug.jpg" alt="The owner and Reda shake hands and hug" />
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tl = gsap.timeline({ paused: true });
+
+    tl.fromTo("#p3-web-cam", { scale: 1.0, x: 0, y: 0 }, { scale: 1.1, x: -10, y: -14, duration: 1.15, ease: "power2.out" }, 0);
+    tl.fromTo("#p3-mini", { opacity: 0 }, { opacity: 1, duration: 0.16, ease: "power2.out" }, 0.1);
+    tl.fromTo("#p3-loadbar", { scaleX: 0, opacity: 1 }, { scaleX: 1, duration: 0.34, ease: "power2.inOut" }, 0);
+    tl.to("#p3-loadbar", { opacity: 0, duration: 0.1 }, 0.36);
+    tl.fromTo("#p3-mini-btn", { scale: 0.92 }, { scale: 1, duration: 0.18, ease: "back.out(2)" }, 0.46);
+
+    tl.fromTo("#p3-lock-cam", { scale: 1.14, x: 8, y: 6 }, { scale: 1.2, x: -6, y: -14, duration: 1.15, ease: "power2.out" }, 1.15);
+    tl.fromTo("#p3-toast", { opacity: 0, y: -140, scale: 0.94 }, { opacity: 1, y: 0, scale: 1, duration: 0.28, ease: "back.out(1.7)" }, 1.32);
+
+    tl.fromTo("#p3-crowd-cam", { scale: 1.04, x: -34 }, { scale: 1.14, x: 24, duration: 1.35, ease: "power1.inOut" }, 2.3);
+    tl.fromTo("#p3-hug-cam", { scale: 1.02, x: 12, y: 6 }, { scale: 1.11, x: -8, y: -10, duration: 1.35, ease: "power2.out" }, 3.65);
+
+    window.__timelines["proof"] = tl;
+  </script>
+</template>

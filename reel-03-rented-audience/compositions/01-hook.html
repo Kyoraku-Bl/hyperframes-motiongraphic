@@ -1,0 +1,174 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: #121715;
+    }
+    .clip {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .shake,
+    .cam {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .cam {
+      transform-origin: 50% 50%;
+    }
+    .plate {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .hook-wrap {
+      z-index: 30;
+    }
+    .hook-scrim {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 270px;
+      height: 330px;
+      background: linear-gradient(180deg, rgba(18, 23, 21, 0.62) 0%, rgba(18, 23, 21, 0.36) 55%, rgba(18, 23, 21, 0) 100%);
+    }
+    #h1-hookline {
+      position: absolute;
+      left: 65px;
+      right: 65px;
+      top: 302px;
+      text-align: center;
+      font-family: "Inter", sans-serif;
+      font-weight: 900;
+      font-size: 76px;
+      line-height: 1.08;
+      letter-spacing: -0.025em;
+      color: #f3eee2;
+      text-shadow: 3px 3px 0 #121715, -3px 3px 0 #121715, 3px -3px 0 #121715, -3px -3px 0 #121715, 0 10px 30px rgba(0, 0, 0, 0.85);
+    }
+    .hook-line {
+      white-space: nowrap;
+    }
+    .w {
+      display: inline-block;
+      transform-origin: 50% 60%;
+    }
+    .w.hl {
+      background: #1f4736;
+      color: #f3eee2;
+      padding: 0 18px 6px;
+      margin: 0 2px;
+      border-radius: 10px;
+      box-shadow: 0 8px 0 rgba(10, 26, 18, 0.5);
+    }
+  </style>
+
+  <div id="root" data-composition-id="hook" data-width="1080" data-height="1920" data-duration="3">
+    <!-- 0.00-0.80 fast tracking follow through the cafe, sidestep -->
+    <div id="h1-walk" class="clip" data-start="0" data-duration="0.8" data-track-index="1">
+      <div id="h1-walk-shake" class="shake">
+        <div id="h1-walk-cam" class="cam">
+          <img class="plate" src="assets/plates/f1-florist.jpg" alt="Reda weaving through the busy anime cafe" />
+        </div>
+      </div>
+    </div>
+
+    <!-- 0.80-3.00 spin to camera, walking backward -->
+    <div id="h1-spin" class="clip" data-start="0.8" data-duration="2.2" data-track-index="2">
+      <div id="h1-spin-shake" class="shake">
+        <div id="h1-spin-cam" class="cam">
+          <img class="plate" src="assets/plates/n3-reda-spin.jpg" alt="Reda turns to camera while the owner checks an empty search" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Hook text pops from frame 1, inside the upper safe zone -->
+    <div id="h1-hookline-clip" class="clip hook-wrap" data-start="0" data-duration="1.6" data-track-index="5">
+      <div id="h1-hookline-fade">
+        <div class="hook-scrim"></div>
+        <div id="h1-hookline">
+          <div class="hook-line"><span class="w">YOU DON'T OWN</span></div>
+          <div class="hook-line"><span class="w hl">YOUR FOLLOWERS</span></div>
+          <div class="hook-line"><span class="w">YOU RENT THEM.</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const tl = gsap.timeline({ paused: true });
+
+    // Tracking follow: camera already moving at frame 0, on inner wrappers only.
+    tl.fromTo(
+      "#h1-walk-cam",
+      { scale: 1.16, x: -46, y: 8 },
+      { scale: 1.02, x: 26, y: -6, duration: 0.8, ease: "power2.out" },
+      0,
+    );
+    tl.fromTo(
+      "#h1-walk-shake",
+      { x: -7, y: 4 },
+      {
+        keyframes: [
+          { x: 5, y: -4, duration: 0.13 },
+          { x: -4, y: 3, duration: 0.13 },
+          { x: 6, y: -2, duration: 0.13 },
+          { x: -2, y: 2, duration: 0.13 },
+          { x: 3, y: 0, duration: 0.13 },
+        ],
+        ease: "none",
+      },
+      0,
+    );
+
+    // Spin-to-camera: short settle, then a slow push with handheld drift.
+    tl.fromTo(
+      "#h1-spin-cam",
+      { scale: 1.02, x: 20, y: 0 },
+      { scale: 1.11, x: -14, y: -10, duration: 2.2, ease: "power1.inOut" },
+      0.8,
+    );
+    tl.fromTo(
+      "#h1-spin-shake",
+      { x: 0, y: 0 },
+      {
+        keyframes: [
+          { x: -5, y: 3, duration: 0.28 },
+          { x: 4, y: -3, duration: 0.28 },
+          { x: -3, y: 2, duration: 0.28 },
+          { x: 5, y: -2, duration: 0.28 },
+          { x: -2, y: 2, duration: 0.28 },
+          { x: 3, y: -1, duration: 0.28 },
+          { x: 0, y: 0, duration: 0.28 },
+        ],
+        ease: "none",
+      },
+      0.8,
+    );
+
+    // Hook: all words on screen at frame 0, popping on ones rather than fading in.
+    tl.fromTo(
+      "#h1-hookline .w",
+      { scale: 0.86, y: 16 },
+      { scale: 1, y: 0, duration: 0.16, stagger: 0.05, ease: "back.out(2.2)" },
+      0,
+    );
+    tl.to(
+      "#h1-hookline .w",
+      { opacity: 0, y: -14, duration: 0.14, stagger: 0.02, ease: "power2.in" },
+      1.34,
+    );
+    tl.to("#h1-hookline-fade", { opacity: 0, duration: 0.18, ease: "power2.in" }, 1.38);
+
+    window.__timelines["hook"] = tl;
+  </script>
+</template>

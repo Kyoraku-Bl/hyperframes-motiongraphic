@@ -1,0 +1,8 @@
+# The monorepo ignores every directory named `compositions/`. This project
+# authors its scene files there, so un-ignore them here and keep them tracked.
+!compositions/
+!compositions/**
+
+# Rendered previews stay local (the deliverable MP4 is committed on purpose).
+.hyperframes/
+.check.json

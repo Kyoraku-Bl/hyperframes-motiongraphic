@@ -1,0 +1,65 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: visible; pointer-events: none; }
+    .cap { position: absolute; inset: 0; pointer-events: none; }
+    .cap-inner {
+      position: absolute; left: 64px; right: 64px; top: 1148px;
+      text-align: center; font-family: "Inter", sans-serif; font-weight: 900;
+      font-size: 84px; line-height: 1.14; letter-spacing: -0.025em;
+      color: #f3eee2;
+      text-shadow: 4px 4px 0 #121715, -4px 4px 0 #121715, 4px -4px 0 #121715,
+                   -4px -4px 0 #121715, 0 12px 30px rgba(0, 0, 0, 0.9);
+      overflow: visible;
+    }
+    .w { display: inline-block; margin: 0 7px; opacity: 0; transform-origin: 50% 65%; }
+    .w.hl {
+      background: #1f4736; color: #f3eee2; padding: 0 16px 7px; border-radius: 12px;
+      box-shadow: 0 8px 0 rgba(9, 25, 17, 0.55);
+    }
+  </style>
+
+  <div id="root" data-composition-id="captions" data-width="1080" data-height="1920" data-duration="7">
+    <div id="cap-01" class="cap clip" data-start="0.15" data-duration="1.41" data-track-index="1">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>Dead</span><span class="w" data-layout-allow-occlusion>page?</span><span class="w" data-layout-allow-occlusion>Watch</span></div>
+    </div>
+    <div id="cap-02" class="cap clip" data-start="1.56" data-duration="0.94" data-track-index="2">
+      <div class="cap-inner"><span class="w hl" data-layout-allow-occlusion>THIS</span><span class="w" data-layout-allow-occlusion>flip!</span></div>
+    </div>
+    <div id="cap-03" class="cap clip" data-start="2.55" data-duration="1.35" data-track-index="3">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>Forty-eight</span><span class="w" data-layout-allow-occlusion>hours</span><span class="w" data-layout-allow-occlusion>to</span></div>
+    </div>
+    <div id="cap-04" class="cap clip" data-start="3.9" data-duration="1.35" data-track-index="4">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>a</span><span class="w" data-layout-allow-occlusion>booking</span><span class="w" data-layout-allow-occlusion>machine.</span></div>
+    </div>
+    <div id="cap-05" class="cap clip" data-start="5.25" data-duration="1.35" data-track-index="5">
+      <div class="cap-inner"><span class="w" data-layout-allow-occlusion>DM</span><span class="w hl" data-layout-allow-occlusion>FLIP</span><span class="w" data-layout-allow-occlusion>now!</span></div>
+    </div>
+  </div>
+
+  <script>
+    const groups = [
+      ["cap-01", 0.15, 1.56],
+      ["cap-02", 1.56, 2.5],
+      ["cap-03", 2.55, 3.9],
+      ["cap-04", 3.9, 5.25],
+      ["cap-05", 5.25, 6.6],
+    ];
+
+    const tl = gsap.timeline({ paused: true });
+    groups.forEach(([id, start, end]) => {
+      const inner = `#${id} .cap-inner`;
+      tl.fromTo(
+        `${inner} .w`,
+        { opacity: 0, y: 22, scale: 0.9 },
+        { opacity: 1, y: 0, scale: 1, duration: 0.16, stagger: 0.055, ease: "back.out(2)" },
+        start,
+      );
+      tl.to(inner, { opacity: 0, duration: 0.1, ease: "power2.in" }, end - 0.1);
+      tl.set(inner, { opacity: 0, visibility: "hidden" }, end);
+    });
+    tl.fromTo("#cap-02 .w.hl", { scale: 1.7 }, { scale: 1, duration: 0.22, ease: "power4.out", immediateRender: false }, 1.7);
+    tl.fromTo("#cap-05 .w.hl", { scale: 1.7 }, { scale: 1, duration: 0.22, ease: "power4.out", immediateRender: false }, 5.39);
+
+    window.__timelines["captions"] = tl;
+  </script>
+</template>
